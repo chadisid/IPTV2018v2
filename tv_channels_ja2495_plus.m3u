@@ -1,0 +1,1305 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="HD1" tvg-name="BEIN_SPORT_1_HD" tvg-logo="http://universeiptv.org/pics/be_in_tr_sports_01_hd.png" group-title="BEIN",BEIN_SPORT_1_HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/858.ts
+#EXTINF:-1 tvg-ID="HD2" tvg-name="BEIN_SPORT_2_HD" tvg-logo="http://universeiptv.org/pics/bein_hd2.png" group-title="BEIN",BEIN_SPORT_2_HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/859.ts
+#EXTINF:-1 tvg-ID="HD3" tvg-name="BEIN_SPORT_3_HD" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_03_hd.png" group-title="BEIN",BEIN_SPORT_3_HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/860.ts
+#EXTINF:-1 tvg-ID="HD4" tvg-name="BEIN_SPORT_4_HD" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_04_hd.png" group-title="BEIN",BEIN_SPORT_4_HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/861.ts
+#EXTINF:-1 tvg-ID="HD5" tvg-name="BEIN_SPORT_5_HD" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_05_hd.png" group-title="BEIN",BEIN_SPORT_5_HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/862.ts
+#EXTINF:-1 tvg-ID="HD6" tvg-name="BEIN_SPORT_6_HD" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_06_hd.png" group-title="BEIN",BEIN_SPORT_6_HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/863.ts
+#EXTINF:-1 tvg-ID="HD7" tvg-name="BEIN_SPORT_7_HD" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_07_hd.png" group-title="BEIN",BEIN_SPORT_7_HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/864.ts
+#EXTINF:-1 tvg-ID="HD8" tvg-name="BEIN_SPORT_8_HD" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_08_hd.png" group-title="BEIN",BEIN_SPORT_8_HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/865.ts
+#EXTINF:-1 tvg-ID="HD9" tvg-name="BEIN_SPORT_9_HD" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_09_hd.png" group-title="BEIN",BEIN_SPORT_9_HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/866.ts
+#EXTINF:-1 tvg-ID="OlympicChannel" tvg-name="BEIN_SPORT_10_HD" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_10_hd.png" group-title="BEIN",BEIN_SPORT_10_HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/867.ts
+#EXTINF:-1 tvg-ID="SportsHD11" tvg-name="BEIN_SPORT_11_HD" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_11_hd.png" group-title="BEIN",BEIN_SPORT_11_HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3026.ts
+#EXTINF:-1 tvg-ID="SportsHD12" tvg-name="BEIN_SPORT_12_HD" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_12_hd.png" group-title="BEIN",BEIN_SPORT_12_HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3027.ts
+#EXTINF:-1 tvg-ID="HD1" tvg-name="bein_Sports_SD1" tvg-logo="http://universeiptv.org/pics/be_in_tr_sports_01_hd.png" group-title="BEIN",bein_Sports_SD1
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1003.ts
+#EXTINF:-1 tvg-ID="HD2" tvg-name="bein_Sports_SD2" tvg-logo="http://universeiptv.org/pics/bein_hd2.png" group-title="BEIN",bein_Sports_SD2
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1004.ts
+#EXTINF:-1 tvg-ID="HD3" tvg-name="bein_Sports_SD3" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_03_hd.png" group-title="BEIN",bein_Sports_SD3
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1005.ts
+#EXTINF:-1 tvg-ID="HD4" tvg-name="bein_Sports_SD4" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_04_hd.png" group-title="BEIN",bein_Sports_SD4
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1006.ts
+#EXTINF:-1 tvg-ID="HD5" tvg-name="bein_Sports_SD5" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_05_hd.png" group-title="BEIN",bein_Sports_SD5
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1007.ts
+#EXTINF:-1 tvg-ID="HD6" tvg-name="bein_Sports_SD6" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_06_hd.png" group-title="BEIN",bein_Sports_SD6
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1008.ts
+#EXTINF:-1 tvg-ID="HD7" tvg-name="bein_Sports_SD7" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_07_hd.png" group-title="BEIN",bein_Sports_SD7
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1009.ts
+#EXTINF:-1 tvg-ID="HD8" tvg-name="bein_Sports_SD8" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_08_hd.png" group-title="BEIN",bein_Sports_SD8
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1010.ts
+#EXTINF:-1 tvg-ID="HD9" tvg-name="bein_Sports_SD9" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_09_hd.png" group-title="BEIN",bein_Sports_SD9
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1011.ts
+#EXTINF:-1 tvg-ID="OlympicChannel" tvg-name="bein_Sports_SD10" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_10_hd.png" group-title="BEIN",bein_Sports_SD10
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1012.ts
+#EXTINF:-1 tvg-ID="SportsHD11" tvg-name="bein_Sports_SD11" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_11_hd.png" group-title="BEIN",bein_Sports_SD11
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3028.ts
+#EXTINF:-1 tvg-ID="SportsHD12" tvg-name="bein_Sports_SD12" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_12_hd.png" group-title="BEIN",bein_Sports_SD12
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3029.ts
+#EXTINF:-1 tvg-ID="HD1" tvg-name="BeINsport_HD1_Low" tvg-logo="http://universeiptv.org/pics/be_in_tr_sports_01_hd.png" group-title="BEIN",BeINsport_HD1_Low
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/16.ts
+#EXTINF:-1 tvg-ID="HD2" tvg-name="BeINsport_HD2_Low" tvg-logo="http://universeiptv.org/pics/bein_hd2.png" group-title="BEIN",BeINsport_HD2_Low
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/17.ts
+#EXTINF:-1 tvg-ID="HD3" tvg-name="BeINsport_HD3_Low" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_03_hd.png" group-title="BEIN",BeINsport_HD3_Low
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/18.ts
+#EXTINF:-1 tvg-ID="HD4" tvg-name="BeINsport_HD4_Low" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_04_hd.png" group-title="BEIN",BeINsport_HD4_Low
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/19.ts
+#EXTINF:-1 tvg-ID="HD5" tvg-name="BeINsport_HD5_Low" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_05_hd.png" group-title="BEIN",BeINsport_HD5_Low
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/20.ts
+#EXTINF:-1 tvg-ID="HD6" tvg-name="BeINsport_HD6_Low" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_06_hd.png" group-title="BEIN",BeINsport_HD6_Low
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/21.ts
+#EXTINF:-1 tvg-ID="HD7" tvg-name="BeINsport_HD7_Low" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_07_hd.png" group-title="BEIN",BeINsport_HD7_Low
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/22.ts
+#EXTINF:-1 tvg-ID="HD8" tvg-name="BeINsport_HD8_Low" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_08_hd.png" group-title="BEIN",BeINsport_HD8_Low
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/23.ts
+#EXTINF:-1 tvg-ID="HD9" tvg-name="BeINsport_HD9_Low" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_09_hd.png" group-title="BEIN",BeINsport_HD9_Low
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/24.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeINsport_HD10_Low" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_10_hd.png" group-title="BEIN",BeINsport_HD10_Low
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/25.ts
+#EXTINF:-1 tvg-ID="HD1" tvg-name="BEIN_SPORT_1_HD_1080p" tvg-logo="http://universeiptv.org/pics/be_in_tr_sports_01_hd.png" group-title="BEIN",BEIN_SPORT_1_HD_1080p
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3111.ts
+#EXTINF:-1 tvg-ID="HD2" tvg-name="BEIN_SPORT_2_HD_1080p" tvg-logo="http://universeiptv.org/pics/bein_hd2.png" group-title="BEIN",BEIN_SPORT_2_HD_1080p
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3110.ts
+#EXTINF:-1 tvg-ID="HD3" tvg-name="BEIN_SPORT_3_HD_1080p" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_03_hd.png" group-title="BEIN",BEIN_SPORT_3_HD_1080p
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3109.ts
+#EXTINF:-1 tvg-ID="HD4" tvg-name="BEIN_SPORT_4_HD_1080p" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_04_hd.png" group-title="BEIN",BEIN_SPORT_4_HD_1080p
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3108.ts
+#EXTINF:-1 tvg-ID="HD5" tvg-name="BEIN_SPORT_5_HD_1080p" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_05_hd.png" group-title="BEIN",BEIN_SPORT_5_HD_1080p
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3107.ts
+#EXTINF:-1 tvg-ID="HD6" tvg-name="BEIN_SPORT_6_HD_1080p" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_06_hd.png" group-title="BEIN",BEIN_SPORT_6_HD_1080p
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3106.ts
+#EXTINF:-1 tvg-ID="HD7" tvg-name="BEIN_SPORT_7_HD_1080p" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_07_hd.png" group-title="BEIN",BEIN_SPORT_7_HD_1080p
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3105.ts
+#EXTINF:-1 tvg-ID="HD8" tvg-name="BEIN_SPORT_8_HD_1080p" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_08_hd.png" group-title="BEIN",BEIN_SPORT_8_HD_1080p
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3104.ts
+#EXTINF:-1 tvg-ID="HD9" tvg-name="BEIN_SPORT_9_HD_1080p" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_09_hd.png" group-title="BEIN",BEIN_SPORT_9_HD_1080p
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3103.ts
+#EXTINF:-1 tvg-ID="OlympicChannel" tvg-name="BEIN_SPORT_10_HD_1080p" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_10_hd.png" group-title="BEIN",BEIN_SPORT_10_HD_1080p
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3102.ts
+#EXTINF:-1 tvg-ID="HD1" tvg-name="BEIN_SPORT_1_4k" tvg-logo="http://universeiptv.org/pics/be_in_tr_sports_01_hd.png" group-title="BEIN",BEIN_SPORT_1_4k
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/5544.ts
+#EXTINF:-1 tvg-ID="HD2" tvg-name="BEIN_SPORT_2_4k" tvg-logo="http://universeiptv.org/pics/bein_hd2.png" group-title="BEIN",BEIN_SPORT_2_4k
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/5543.ts
+#EXTINF:-1 tvg-ID="HD3" tvg-name="BEIN_SPORT_3_4k" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_03_hd.png" group-title="BEIN",BEIN_SPORT_3_4k
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/5542.ts
+#EXTINF:-1 tvg-ID="HD4" tvg-name="BEIN_SPORT_4_4k" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_04_hd.png" group-title="BEIN",BEIN_SPORT_4_4k
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/5541.ts
+#EXTINF:-1 tvg-ID="HD5" tvg-name="BEIN_SPORT_5_4k" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_05_hd.png" group-title="BEIN",BEIN_SPORT_5_4k
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/5540.ts
+#EXTINF:-1 tvg-ID="HD6" tvg-name="BEIN_SPORT_6_4k" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_06_hd.png" group-title="BEIN",BEIN_SPORT_6_4k
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/5539.ts
+#EXTINF:-1 tvg-ID="HD7" tvg-name="BEIN_SPORT_7_4k" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_07_hd.png" group-title="BEIN",BEIN_SPORT_7_4k
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/5538.ts
+#EXTINF:-1 tvg-ID="HD8" tvg-name="BEIN_SPORT_8_4k" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_08_hd.png" group-title="BEIN",BEIN_SPORT_8_4k
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/5537.ts
+#EXTINF:-1 tvg-ID="HD9" tvg-name="BEIN_SPORT_9_4k" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_09_hd.png" group-title="BEIN",BEIN_SPORT_9_4k
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/5536.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_SPORT_10_4k" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_10_hd.png" group-title="BEIN",BEIN_SPORT_10_4k
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/5535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_SPORT_11_4k" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_11_hd.png" group-title="BEIN",BEIN_SPORT_11_4k
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/5534.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_SPORT_12_4k" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_12_hd.png" group-title="BEIN",BEIN_SPORT_12_4k
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/5533.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein_sport_1" tvg-logo="http://universeiptv.org/pics/be_in_tr_sports_01_hd.png" group-title="BEIN",Bein_sport_1
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/165.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein_sport_2" tvg-logo="http://universeiptv.org/pics/bein_hd2.png" group-title="BEIN",Bein_sport_2
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/167.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein_sport_3" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_03_hd.png" group-title="BEIN",Bein_sport_3
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/168.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein_sport_4" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_04_hd.png" group-title="BEIN",Bein_sport_4
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/169.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein_sport_5" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_05_hd.png" group-title="BEIN",Bein_sport_5
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/170.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein_sport_6" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_06_hd.png" group-title="BEIN",Bein_sport_6
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/171.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein_sport_7" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_07_hd.png" group-title="BEIN",Bein_sport_7
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/172.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein_sport_8" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_08_hd.png" group-title="BEIN",Bein_sport_8
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/173.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein_sport_9" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_09_hd.png" group-title="BEIN",Bein_sport_9
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/174.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein_sport_10" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_10_hd.png" group-title="BEIN",Bein_sport_10
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/166.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_SPORTS_1_HD" tvg-logo="http://universeiptv.org/pics/be_in_tr_sports_01_hd.png" group-title="BEIN",BEIN_SPORTS_1_HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_SPORTS_2_HD" tvg-logo="http://universeiptv.org/pics/bein_hd2.png" group-title="BEIN",BEIN_SPORTS_2_HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_SPORTS_3_HD" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_03_hd.png" group-title="BEIN",BEIN_SPORTS_3_HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_SPORTS_4_HD" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_04_hd.png" group-title="BEIN",BEIN_SPORTS_4_HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/4.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_SPORTS_5_HD" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_05_hd.png" group-title="BEIN",BEIN_SPORTS_5_HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/5.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_SPORTS_6_HD" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_06_hd.png" group-title="BEIN",BEIN_SPORTS_6_HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/6.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_SPORTS_7_HD" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_07_hd.png" group-title="BEIN",BEIN_SPORTS_7_HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/7.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_SPORTS_8_HD" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_08_hd.png" group-title="BEIN",BEIN_SPORTS_8_HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/8.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_SPORTS_9_HD" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_09_hd.png" group-title="BEIN",BEIN_SPORTS_9_HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/9.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_SPORTS_10_HD" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_10_hd.png" group-title="BEIN",BEIN_SPORTS_10_HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/10.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_SPORTS_11_HD" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_11_hd.png" group-title="BEIN",BEIN_SPORTS_11_HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/11.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_SPORTS_12_HD" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_12_hd.png" group-title="BEIN",BEIN_SPORTS_12_HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/12.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_SPORTS_13_HD" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_13_hd.png" group-title="BEIN",BEIN_SPORTS_13_HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/13.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_SPORTS_14_HD" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_14_hd.png" group-title="BEIN",BEIN_SPORTS_14_HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/14.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_SPORTS_15_HD" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_15_hd.png" group-title="BEIN",BEIN_SPORTS_15_HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/15.ts
+#EXTINF:-1 tvg-ID="SportsGlobalHD" tvg-name="Bein_Sports" tvg-logo="http://universeiptv.org/pics/beinsportglobal.png" group-title="BEIN",Bein_Sports
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/5593.ts
+#EXTINF:-1 tvg-ID="News_ar" tvg-name="BEIN_SPORTS_NEWS" tvg-logo="http://universeiptv.org/pics/beinnews.PNG" group-title="BEIN",BEIN_SPORTS_NEWS
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2219.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_MAX_1_HD_(Coming_Soon_World_Cup)" tvg-logo="http://universeiptv.org/pics/beinmax.PNG" group-title="BEIN",BEIN_MAX_1_HD_(Coming_Soon_World_Cup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2203.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_MAX_2_HD_(Coming_Soon_World_Cup)" tvg-logo="http://universeiptv.org/pics/beinmax.PNG" group-title="BEIN",BEIN_MAX_2_HD_(Coming_Soon_World_Cup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2204.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_MAX_3_HD_(Coming_Soon_World_Cup)" tvg-logo="http://universeiptv.org/pics/beinmax.PNG" group-title="BEIN",BEIN_MAX_3_HD_(Coming_Soon_World_Cup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2205.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_MAX_4_HD_(Coming_Soon_World_Cup)" tvg-logo="http://universeiptv.org/pics/beinmax.PNG" group-title="BEIN",BEIN_MAX_4_HD_(Coming_Soon_World_Cup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2206.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_MAX_1_SD_(Coming_Soon_World_Cup)" tvg-logo="http://universeiptv.org/pics/beinmax.PNG" group-title="BEIN",BEIN_MAX_1_SD_(Coming_Soon_World_Cup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2207.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_MAX_2_SD_(Coming_Soon_World_Cup)" tvg-logo="http://universeiptv.org/pics/beinmax.PNG" group-title="BEIN",BEIN_MAX_2_SD_(Coming_Soon_World_Cup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2208.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_MAX_3_SD_(Coming_Soon_World_Cup)" tvg-logo="http://universeiptv.org/pics/beinmax.PNG" group-title="BEIN",BEIN_MAX_3_SD_(Coming_Soon_World_Cup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2209.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_MAX_4_SD_(Coming_Soon_World_Cup)" tvg-logo="http://universeiptv.org/pics/beinmax.PNG" group-title="BEIN",BEIN_MAX_4_SD_(Coming_Soon_World_Cup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2210.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_MAX_1_low_(Coming_Soon_World_Cup)" tvg-logo="http://universeiptv.org/pics/beinmax.PNG" group-title="BEIN",BEIN_MAX_1_low_(Coming_Soon_World_Cup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2211.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_MAX_2_low_(Coming_Soon_World_Cup)" tvg-logo="http://universeiptv.org/pics/beinmax.PNG" group-title="BEIN",BEIN_MAX_2_low_(Coming_Soon_World_Cup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2212.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_MAX_3_low_(Coming_Soon_World_Cup)" tvg-logo="http://universeiptv.org/pics/beinmax.PNG" group-title="BEIN",BEIN_MAX_3_low_(Coming_Soon_World_Cup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2213.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_MAX_4_low_(Coming_Soon_World_Cup)" tvg-logo="http://universeiptv.org/pics/beinmax.PNG" group-title="BEIN",BEIN_MAX_4_low_(Coming_Soon_World_Cup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2214.ts
+#EXTINF:-1 tvg-ID="MoviesHD1" tvg-name="BEIN_MOVIES_1" tvg-logo="http://universeiptv.org/pics/mov1.PNG" group-title="BEIN",BEIN_MOVIES_1
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/868.ts
+#EXTINF:-1 tvg-ID="MoviesHD2" tvg-name="BEIN_MOVIES_2" tvg-logo="http://universeiptv.org/pics/mov2.PNG" group-title="BEIN",BEIN_MOVIES_2
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/869.ts
+#EXTINF:-1 tvg-ID="MoviesHD3" tvg-name="BEIN_MOVIES_3" tvg-logo="http://universeiptv.org/pics/mov3PNG.PNG" group-title="BEIN",BEIN_MOVIES_3
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1998.ts
+#EXTINF:-1 tvg-ID="MoviesHD4" tvg-name="BEIN_MOVIES_4" tvg-logo="http://universeiptv.org/pics/mov4.PNG" group-title="BEIN",BEIN_MOVIES_4
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2107.ts
+#EXTINF:-1 tvg-ID="amc" tvg-name="BEIN_Amc" tvg-logo="http://universeiptv.org/pics/amc.PNG" group-title="BEIN",BEIN_Amc
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3083.ts
+#EXTINF:-1 tvg-ID="Baby_TV" tvg-name="BEIN_BABY" tvg-logo="http://universeiptv.org/pics/baby_tv_eu.png" group-title="BEIN",BEIN_BABY
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2727.ts
+#EXTINF:-1 tvg-ID="Baby_TV" tvg-name="BEIN_BABY_(Backup)" tvg-logo="http://universeiptv.org/pics/baby_tv_eu.png" group-title="BEIN",BEIN_BABY_(Backup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/6653.ts
+#EXTINF:-1 tvg-ID="Baraem" tvg-name="BEIN_BARAAEM" tvg-logo="http://universeiptv.org/pics/baraaem.PNG" group-title="BEIN",BEIN_BARAAEM
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2108.ts
+#EXTINF:-1 tvg-ID="Baraem" tvg-name="BEIN_BARAAEM_(Backup)" tvg-logo="http://universeiptv.org/pics/baraaem.PNG" group-title="BEIN",BEIN_BARAAEM_(Backup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/6872.ts
+#EXTINF:-1 tvg-ID="Boomerang" tvg-name="BEIN_Boomerang" tvg-logo="http://universeiptv.org/pics/boomerang.PNG" group-title="BEIN",BEIN_Boomerang
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3046.ts
+#EXTINF:-1 tvg-ID="Boomerang" tvg-name="BEIN_Boomerang_(Backup)" tvg-logo="http://universeiptv.org/pics/boomerang.PNG" group-title="BEIN",BEIN_Boomerang_(Backup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/6652.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_Box_Office_1" tvg-logo="http://universeiptv.org/pics/bein_boxoffice.PNG" group-title="BEIN",BEIN_Box_Office_1
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/8132.ts
+#EXTINF:-1 tvg-ID="CBeebies" tvg-name="BEIN_Cbeebies" tvg-logo="http://universeiptv.org/pics/cbeebies.PNG" group-title="BEIN",BEIN_Cbeebies
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/4004.ts
+#EXTINF:-1 tvg-ID="DKids" tvg-name="BEIN_D_Kids" tvg-logo="http://universeiptv.org/pics/discovery-kids.png" group-title="BEIN",BEIN_D_Kids
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/6655.ts
+#EXTINF:-1 tvg-ID="DKids" tvg-name="BEIN_D_Kids_(Backup)" tvg-logo="http://universeiptv.org/pics/discovery-kids.png" group-title="BEIN",BEIN_D_Kids_(Backup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/6873.ts
+#EXTINF:-1 tvg-ID="DLife" tvg-name="BEIN_Discovery_Life" tvg-logo="http://universeiptv.org/pics/dlife.PNG" group-title="BEIN",BEIN_Discovery_Life
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3589.ts
+#EXTINF:-1 tvg-ID="DMAX" tvg-name="BEIN_Discovery_MAX" tvg-logo="http://universeiptv.org/pics/dmax.PNG" group-title="BEIN",BEIN_Discovery_MAX
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3044.ts
+#EXTINF:-1 tvg-ID="DMAX" tvg-name="BEIN_Discovery_MAX_(Backup)" tvg-logo="http://universeiptv.org/pics/dmax.PNG" group-title="BEIN",BEIN_Discovery_MAX_(Backup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/8533.ts
+#EXTINF:-1 tvg-ID="DramaHD1" tvg-name="BEIN_Drama" tvg-logo="http://universeiptv.org/pics/bein-drama.png" group-title="BEIN",BEIN_Drama
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/6654.ts
+#EXTINF:-1 tvg-ID="DramaHD1" tvg-name="BEIN_Drama_(Backup)" tvg-logo="http://universeiptv.org/pics/bein-drama.png" group-title="BEIN",BEIN_Drama_(Backup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/7752.ts
+#EXTINF:-1 tvg-ID="DreamWorks" tvg-name="BEIN_DreamWorks" tvg-logo="http://universeiptv.org/pics/dreamwork.PNG" group-title="BEIN",BEIN_DreamWorks
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3318.ts
+#EXTINF:-1 tvg-ID="DTX" tvg-name="BEIN_DTX" tvg-logo="http://universeiptv.org/pics/dtx.PNG" group-title="BEIN",BEIN_DTX
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3667.ts
+#EXTINF:-1 tvg-ID="Extreme" tvg-name="BEIN_Extreme_Sports" tvg-logo="http://universeiptv.org/pics/extreme.PNG" group-title="BEIN",BEIN_Extreme_Sports
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/8622.ts
+#EXTINF:-1 tvg-ID="fatafeat" tvg-name="BEIN_Fatafeat" tvg-logo="http://universeiptv.org/pics/fatafeat.PNG" group-title="BEIN",BEIN_Fatafeat
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2442.ts
+#EXTINF:-1 tvg-ID="fatafeat" tvg-name="BEIN_Fatafeat_Backup" tvg-logo="http://universeiptv.org/pics/fatafeat.PNG" group-title="BEIN",BEIN_Fatafeat_Backup
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/5483.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_Food_Network" tvg-logo="http://universeiptv.org/pics/osn/foodnetwork.png" group-title="BEIN",BEIN_Food_Network
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2728.ts
+#EXTINF:-1 tvg-ID="FOX_HD" tvg-name="BEIN_Fox" tvg-logo="http://universeiptv.org/pics/beinfox.PNG" group-title="BEIN",BEIN_Fox
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3232.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_Fox_Crime" tvg-logo="http://universeiptv.org/pics/osn/fox-crime.png" group-title="BEIN",BEIN_Fox_Crime
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/8506.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_Fox_Life" tvg-logo="http://universeiptv.org/pics/osn/fox-life.png" group-title="BEIN",BEIN_Fox_Life
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/8507.ts
+#EXTINF:-1 tvg-ID="FOX_Movies_HD" tvg-name="BEIN_Fox_Movies" tvg-logo="http://universeiptv.org/pics/foxmoviesbein.png" group-title="BEIN",BEIN_Fox_Movies
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3042.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_Fox_Rewayat" tvg-logo="http://universeiptv.org/pics/fox_rewayat.PNG" group-title="BEIN",BEIN_Fox_Rewayat
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/8133.ts
+#EXTINF:-1 tvg-ID="gourmet" tvg-name="BEIN_Gourmet" tvg-logo="http://universeiptv.org/pics/gurme.PNG" group-title="BEIN",BEIN_Gourmet
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3666.ts
+#EXTINF:-1 tvg-ID="gourmet" tvg-name="BEIN_Gourmet_(Backup)" tvg-logo="http://universeiptv.org/pics/gurme.PNG" group-title="BEIN",BEIN_Gourmet_(Backup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/8532.ts
+#EXTINF:-1 tvg-ID="HGTV" tvg-name="BEIN_HGTV" tvg-logo="http://universeiptv.org/pics/hg-tv.PNG" group-title="BEIN",BEIN_HGTV
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3447.ts
+#EXTINF:-1 tvg-ID="Jeem" tvg-name="BEIN_JEEM" tvg-logo="http://universeiptv.org/pics/gbein.PNG" group-title="BEIN",BEIN_JEEM
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2572.ts
+#EXTINF:-1 tvg-ID="Jeem" tvg-name="BEIN_JEEM_(Backup)" tvg-logo="http://universeiptv.org/pics/gbein.PNG" group-title="BEIN",BEIN_JEEM_(Backup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/6871.ts
+#EXTINF:-1 tvg-ID="beJUNIOR" tvg-name="BEIN_JUNIOR" tvg-logo="http://universeiptv.org/pics/bejunior.PNG" group-title="BEIN",BEIN_JUNIOR
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2610.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_Motrovesion" tvg-logo="http://universeiptv.org/pics/motorbein.PNG" group-title="BEIN",BEIN_Motrovesion
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3445.ts
+#EXTINF:-1 tvg-ID="BS NBA" tvg-name="BEIN_NBA" tvg-logo="http://universeiptv.org/pics/beinnba.PNG" group-title="BEIN",BEIN_NBA
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3084.ts
+#EXTINF:-1 tvg-ID="SeriesHD1" tvg-name="BEIN_Series" tvg-logo="http://universeiptv.org/pics/beinseries.PNG" group-title="BEIN",BEIN_Series
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3043.ts
+#EXTINF:-1 tvg-ID="SeriesHD2" tvg-name="BEIN_Series_2" tvg-logo="http://universeiptv.org/pics/beinseries2.PNG" group-title="BEIN",BEIN_Series_2
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/6995.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN_Sky_Movies" tvg-logo="http://universeiptv.org/pics/beinskymovies.PNG" group-title="BEIN",BEIN_Sky_Movies
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3446.ts
+#EXTINF:-1 tvg-ID="TCM" tvg-name="BEIN_TCM" tvg-logo="http://universeiptv.org/pics/tcm.PNG" group-title="BEIN",BEIN_TCM
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3233.ts
+#EXTINF:-1 tvg-ID="TravelChannel" tvg-name="BEIN_Travel_HD" tvg-logo="http://universeiptv.org/pics/travel.PNG" group-title="BEIN",BEIN_Travel_HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3045.ts
+#EXTINF:-1 tvg-ID="" tvg-name="===ART-CHANNEL===" tvg-logo="" group-title="",===ART-CHANNEL===
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2967.ts
+#EXTINF:-1 tvg-ID="ART Aflam 1" tvg-name="ART-Aflam-1-HD" tvg-logo="http://universeiptv.org/pics/art_aflam_1.png" group-title="ART",ART-Aflam-1-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1369.ts
+#EXTINF:-1 tvg-ID="ART Aflam 1" tvg-name="ART-Aflam-1-HD_(Backup)" tvg-logo="http://universeiptv.org/pics/art_aflam_1.png" group-title="ART",ART-Aflam-1-HD_(Backup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/6874.ts
+#EXTINF:-1 tvg-ID="ART Aflam 2" tvg-name="ART-Aflam-2-HD" tvg-logo="http://universeiptv.org/pics/art_aflam_2.png" group-title="ART",ART-Aflam-2-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1368.ts
+#EXTINF:-1 tvg-ID="ART Aflam 2" tvg-name="ART-Aflam-2-HD_(Backup)" tvg-logo="http://universeiptv.org/pics/art_aflam_2.png" group-title="ART",ART-Aflam-2-HD_(Backup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/6875.ts
+#EXTINF:-1 tvg-ID="ART Cinema" tvg-name="ART-Cinema-HD" tvg-logo="http://universeiptv.org/pics/art_cinema.png" group-title="ART",ART-Cinema-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1367.ts
+#EXTINF:-1 tvg-ID="ART Cinema" tvg-name="ART-Cinema-HD_(Backup)" tvg-logo="http://universeiptv.org/pics/art_cinema.png" group-title="ART",ART-Cinema-HD_(Backup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/6876.ts
+#EXTINF:-1 tvg-ID="Hekayat" tvg-name="ART-Hekayat-HD" tvg-logo="http://universeiptv.org/pics/art_hekayat.png" group-title="ART",ART-Hekayat-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1365.ts
+#EXTINF:-1 tvg-ID="Hekayat" tvg-name="ART-Hekayat-HD_(Backup)" tvg-logo="http://universeiptv.org/pics/art_hekayat.png" group-title="ART",ART-Hekayat-HD_(Backup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/6878.ts
+#EXTINF:-1 tvg-ID="Hekayat 2" tvg-name="ART-Hekayat-2-HD" tvg-logo="http://universeiptv.org/pics/art_hekayat_2.png" group-title="ART",ART-Hekayat-2-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1366.ts
+#EXTINF:-1 tvg-ID="Hekayat 2" tvg-name="ART-Hekayat-2-HD_(Backup)" tvg-logo="http://universeiptv.org/pics/art_hekayat_2.png" group-title="ART",ART-Hekayat-2-HD_(Backup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/6877.ts
+#EXTINF:-1 tvg-ID="" tvg-name="===MBC-HD-CHANNEL===" tvg-logo="" group-title="",===MBC-HD-CHANNEL===
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2968.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MBC-1-HD" tvg-logo="http://universeiptv.org/pics/mbc_ae_1_hd.png" group-title="MBC HD",MBC-1-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2475.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MBC-2-HD" tvg-logo="http://universeiptv.org/pics/mbc_ae_2_hd.png" group-title="MBC HD",MBC-2-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2476.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MBC-3-HD" tvg-logo="http://universeiptv.org/pics/mbc_ae_3_hd.png" group-title="MBC HD",MBC-3-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2477.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MBC-4-HD" tvg-logo="http://universeiptv.org/pics/mbc_ae_4_hd.png" group-title="MBC HD",MBC-4-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2478.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MBC-Action-HD" tvg-logo="http://universeiptv.org/pics/mbc_ae_action_hd.png" group-title="MBC HD",MBC-Action-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2479.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MBC-BOLLYWOOD-HD" tvg-logo="http://universeiptv.org/pics/mbcbollyood.PNG" group-title="MBC HD",MBC-BOLLYWOOD-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2671.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MBC-Drama-HD" tvg-logo="http://universeiptv.org/pics/mbc_ae_drama_hd.png" group-title="MBC HD",MBC-Drama-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2480.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MBC-Max-HD" tvg-logo="http://universeiptv.org/pics/mbcmax.png" group-title="MBC HD",MBC-Max-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/4985.ts
+#EXTINF:-1 tvg-ID="MBC Drama Plus" tvg-name="MBC-Plus_Drama-HD" tvg-logo="http://universeiptv.org/pics/mbcplus.PNG" group-title="MBC HD",MBC-Plus_Drama-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2609.ts
+#EXTINF:-1 tvg-ID="MBC Drama Plus" tvg-name="MBC-Plus_Drama-HD_(Backup)" tvg-logo="http://universeiptv.org/pics/mbcplus.PNG" group-title="MBC HD",MBC-Plus_Drama-HD_(Backup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/8523.ts
+#EXTINF:-1 tvg-ID="Mbc PRO SPORTS 1" tvg-name="MBC-Pro-Sport-1-HD" tvg-logo="http://universeiptv.org/pics/mbcprosport1hd.PNG" group-title="MBC HD",MBC-Pro-Sport-1-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2674.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MBC-Pro-Sport-1-HD_(Backup)" tvg-logo="http://universeiptv.org/pics/mbcprosport1hd.PNG" group-title="MBC HD",MBC-Pro-Sport-1-HD_(Backup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3059.ts
+#EXTINF:-1 tvg-ID="Mbc PRO SPORTS 2" tvg-name="MBC-Pro-Sport-2-HD" tvg-logo="http://universeiptv.org/pics/mbcprosport2hd.PNG" group-title="MBC HD",MBC-Pro-Sport-2-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2673.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MBC-Pro-Sport-2-HD_(Backup)" tvg-logo="http://universeiptv.org/pics/mbcprosport2hd.PNG" group-title="MBC HD",MBC-Pro-Sport-2-HD_(Backup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3060.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MBC-Pro-Sport-3-HD" tvg-logo="http://universeiptv.org/pics/mbcprosport3hd.PNG" group-title="MBC HD",MBC-Pro-Sport-3-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2672.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MBC-Pro-Sport-3-HD_(Backup)" tvg-logo="http://universeiptv.org/pics/mbcprosport3hd.PNG" group-title="MBC HD",MBC-Pro-Sport-3-HD_(Backup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3061.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MBC-Variety-HD" tvg-logo="http://universeiptv.org/pics/mbcvarityhd.PNG" group-title="MBC HD",MBC-Variety-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2670.ts
+#EXTINF:-1 tvg-ID="" tvg-name="===MY-HD-CHANNEL===" tvg-logo="" group-title="",===MY-HD-CHANNEL===
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3456.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MY-HD-AL-Arabia-HD" tvg-logo="http://universeiptv.org/pics/arabiahd.PNG" group-title="MY HD",MY-HD-AL-Arabia-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/4535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MY-HD-Cinemachi-Kids" tvg-logo="http://universeiptv.org/pics/cinemakids.PNG" group-title="MY HD",MY-HD-Cinemachi-Kids
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3448.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MY-HD-Cinemachi-Movies" tvg-logo="http://universeiptv.org/pics/osn/cinemachi-movies.PNG" group-title="MY HD",MY-HD-Cinemachi-Movies
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/9656.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MY-HD-Crime-District" tvg-logo="http://universeiptv.org/pics/crimedistrict.png" group-title="MY HD",MY-HD-Crime-District
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/4984.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MY-HD-Film-Box" tvg-logo="http://universeiptv.org/pics/filmbox.PNG" group-title="MY HD",MY-HD-Film-Box
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3451.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MY-HD-Film-Box-Arthouse" tvg-logo="http://universeiptv.org/pics/filmboxart.PNG" group-title="MY HD",MY-HD-Film-Box-Arthouse
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3450.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MY-HD-Fule-Tv" tvg-logo="http://universeiptv.org/pics/fuel.PNG" group-title="MY HD",MY-HD-Fule-Tv
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3590.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MY-HD-Gulli-Arabic" tvg-logo="http://universeiptv.org/pics/gulli.png" group-title="MY HD",MY-HD-Gulli-Arabic
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/4983.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MY-HD-LBC-HD" tvg-logo="http://universeiptv.org/pics/lbchd.PNG" group-title="MY HD",MY-HD-LBC-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3455.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MY-HD-Music-24" tvg-logo="http://universeiptv.org/pics/osn/music-24.PNG" group-title="MY HD",MY-HD-Music-24
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/9658.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MY-HD-My-Cinema" tvg-logo="http://universeiptv.org/pics/mycinema.PNG" group-title="MY HD",MY-HD-My-Cinema
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3452.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MY-HD-Myme" tvg-logo="http://universeiptv.org/pics/myme.PNG" group-title="MY HD",MY-HD-Myme
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3454.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MY-HD-MyZen" tvg-logo="http://universeiptv.org/pics/osn/my-zen-hd.PNG" group-title="MY HD",MY-HD-MyZen
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/9657.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MY-HD-Rotana-Aflam-HD" tvg-logo="http://universeiptv.org/pics/raflamhd.PNG" group-title="MY HD",MY-HD-Rotana-Aflam-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3511.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MY-HD-Rotana-Cinema-HD" tvg-logo="http://universeiptv.org/pics/rotanacinemahd.PNG" group-title="MY HD",MY-HD-Rotana-Cinema-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3512.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MY-HD-Rotana-Classic-HD" tvg-logo="http://universeiptv.org/pics/rclassic.PNG" group-title="MY HD",MY-HD-Rotana-Classic-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3513.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MY-HD-Rotana-Khalijia-HD" tvg-logo="http://universeiptv.org/pics/rotkhaliji.PNG" group-title="MY HD",MY-HD-Rotana-Khalijia-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3514.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MY-HD-Rotana-Masriya-HD" tvg-logo="http://universeiptv.org/pics/rotmasryia.PNG" group-title="MY HD",MY-HD-Rotana-Masriya-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3515.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MY-HD-Rotana-Music-HD" tvg-logo="http://universeiptv.org/pics/rotmusic.PNG" group-title="MY HD",MY-HD-Rotana-Music-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3516.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MY-HD-Stereo-Music" tvg-logo="http://universeiptv.org/pics/stereomusic.PNG" group-title="MY HD",MY-HD-Stereo-Music
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3453.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MY-HD-WoW_Sport" tvg-logo="http://universeiptv.org/pics/wow.PNG" group-title="MY HD",MY-HD-WoW_Sport
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3449.ts
+#EXTINF:-1 tvg-ID="" tvg-name="==AD-SPORTS-CHANNEL==" tvg-logo="" group-title="",==AD-SPORTS-CHANNEL==
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2972.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AD_Sports_1_HD" tvg-logo="http://universeiptv.org/pics/abu_dhabi_sports_ae_1.png" group-title="AD SPORTS",AD_Sports_1_HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1360.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AD_Sports_2_HD" tvg-logo="http://universeiptv.org/pics/abu_dhabi_sports_ae_2.png" group-title="AD SPORTS",AD_Sports_2_HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1359.ts
+#EXTINF:-1 tvg-ID="AD Sports 3 HD" tvg-name="AD_Sports_3_HD" tvg-logo="http://universeiptv.org/pics/abu_dhabi_sports_ae_3.png" group-title="AD SPORTS",AD_Sports_3_HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2573.ts
+#EXTINF:-1 tvg-ID="AD Sports 3 HD" tvg-name="AD_Sports_3_HD_(Backup)" tvg-logo="http://universeiptv.org/pics/abu_dhabi_sports_ae_3.png" group-title="AD SPORTS",AD_Sports_3_HD_(Backup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/6667.ts
+#EXTINF:-1 tvg-ID="AD Sports 4 HD" tvg-name="AD_Sports_4_HD" tvg-logo="http://universeiptv.org/pics/abu_dhabi_sports_ae_4.png" group-title="AD SPORTS",AD_Sports_4_HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2574.ts
+#EXTINF:-1 tvg-ID="AD Sports 4 HD" tvg-name="AD_Sports_4_HD_(Backup)" tvg-logo="http://universeiptv.org/pics/abu_dhabi_sports_ae_4.png" group-title="AD SPORTS",AD_Sports_4_HD_(Backup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/6666.ts
+#EXTINF:-1 tvg-ID="AD Sports 5 HD" tvg-name="AD_Sports_5_HD" tvg-logo="http://universeiptv.org/pics/abu_dhabi_sports_ae_5.png" group-title="AD SPORTS",AD_Sports_5_HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2592.ts
+#EXTINF:-1 tvg-ID="AD Sports 6 HD" tvg-name="AD_Sports_6_HD" tvg-logo="http://universeiptv.org/pics/abu_dhabi_sports_ae_6.png" group-title="AD SPORTS",AD_Sports_6_HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2593.ts
+#EXTINF:-1 tvg-ID="Edge Sport HD" tvg-name="AD_Sports_Edge" tvg-logo="http://universeiptv.org/pics/osn/edge.png" group-title="AD SPORTS",AD_Sports_Edge
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/5227.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AD_Sports_Yas" tvg-logo="http://universeiptv.org/pics/osn/yas.png" group-title="AD SPORTS",AD_Sports_Yas
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/5228.ts
+#EXTINF:-1 tvg-ID="" tvg-name="===OSN-CHANNEL===" tvg-logo="" group-title="OSN",===OSN-CHANNEL===
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2990.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-AD-Drama-HD" tvg-logo="http://universeiptv.org/pics/osn/abudramahd.png" group-title="OSN",OSN-AD-Drama-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3644.ts
+#EXTINF:-1 tvg-ID="Al Safwa" tvg-name="OSN-Alfa-Al-Safwa" tvg-logo="http://universeiptv.org/pics/osn/SAFwa.png" group-title="OSN",OSN-Alfa-Al-Safwa
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2575.ts
+#EXTINF:-1 tvg-ID="Al Yawm" tvg-name="OSN-Alfa-ALYoum-HD" tvg-logo="http://universeiptv.org/pics/osn/YAWm.png" group-title="OSN",OSN-Alfa-ALYoum-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/33.ts
+#EXTINF:-1 tvg-ID="Cinema 1" tvg-name="OSN-Alfa-Cinema-1-HD" tvg-logo="http://universeiptv.org/pics/osn/CM1.png" group-title="OSN",OSN-Alfa-Cinema-1-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/34.ts
+#EXTINF:-1 tvg-ID="Cinema 1" tvg-name="OSN-Alfa-Cinema-1-HD_(Backup)" tvg-logo="http://universeiptv.org/pics/osn/CM1.png" group-title="OSN",OSN-Alfa-Cinema-1-HD_(Backup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/9250.ts
+#EXTINF:-1 tvg-ID="Cinema 2" tvg-name="OSN-Alfa-Cinema-2-HD" tvg-logo="http://universeiptv.org/pics/osn/CM2.png" group-title="OSN",OSN-Alfa-Cinema-2-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/35.ts
+#EXTINF:-1 tvg-ID="Cinema 2" tvg-name="OSN-Alfa-Cinema-2-HD_(Backup)" tvg-logo="http://universeiptv.org/pics/osn/CM2.png" group-title="OSN",OSN-Alfa-Cinema-2-HD_(Backup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/7528.ts
+#EXTINF:-1 tvg-ID="Fann" tvg-name="OSN-Alfa-Fann-HD" tvg-logo="http://universeiptv.org/pics/osn/FAN.png" group-title="OSN",OSN-Alfa-Fann-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/57.ts
+#EXTINF:-1 tvg-ID="Series Channel" tvg-name="OSN-Alfa-Musalsalat" tvg-logo="http://universeiptv.org/pics/osn/SERiesmuslslat.png" group-title="OSN",OSN-Alfa-Musalsalat
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2576.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-Alfa-Musalsalat_(Backup)" tvg-logo="http://universeiptv.org/pics/osn/SERiesmuslslat.png" group-title="OSN",OSN-Alfa-Musalsalat_(Backup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/8625.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-Alfa-Musalsalat-2" tvg-logo="http://universeiptv.org/pics/osn/Series2.png" group-title="OSN",OSN-Alfa-Musalsalat-2
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3270.ts
+#EXTINF:-1 tvg-ID="AnimalPlanetHD" tvg-name="OSN-Animal-Planet-HD" tvg-logo="http://universeiptv.org/pics/osn/APL.png" group-title="OSN",OSN-Animal-Planet-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/59.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-BBC-English" tvg-logo="http://universeiptv.org/pics/osn/BBcfirst.png" group-title="OSN",OSN-BBC-English
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3302.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-Boomerang" tvg-logo="http://universeiptv.org/pics/osn/boomerang.PNG" group-title="OSN",OSN-Boomerang
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3231.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-CNN-HD" tvg-logo="http://universeiptv.org/pics/osn/cnn_usa.png" group-title="OSN",OSN-CNN-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/6965.ts
+#EXTINF:-1 tvg-ID="Comedy Central" tvg-name="OSN-Comedy-Central" tvg-logo="http://universeiptv.org/pics/osn/ComedyCEn.png" group-title="OSN",OSN-Comedy-Central
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2613.ts
+#EXTINF:-1 tvg-ID="Comedy Central" tvg-name="OSN-Comedy-Central_(Backup)" tvg-logo="http://universeiptv.org/pics/osn/ComedyCEn.png" group-title="OSN",OSN-Comedy-Central_(Backup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/7298.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-Crime-Investigation-Network" tvg-logo="http://universeiptv.org/pics/osn/crime.png" group-title="OSN",OSN-Crime-Investigation-Network
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3226.ts
+#EXTINF:-1 tvg-ID="Discovery HD" tvg-name="OSN-Discovery-HD" tvg-logo="http://universeiptv.org/pics/osn/Discovery.png" group-title="OSN",OSN-Discovery-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/58.ts
+#EXTINF:-1 tvg-ID="Discovery HD" tvg-name="OSN-Discovery-HD_(Backup)" tvg-logo="http://universeiptv.org/pics/osn/Discovery.png" group-title="OSN",OSN-Discovery-HD_(Backup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/6895.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-Discovery-Family" tvg-logo="http://universeiptv.org/pics/osn/DisFam.png" group-title="OSN",OSN-Discovery-Family
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3024.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-Discovery-IDX" tvg-logo="http://universeiptv.org/pics/osn/disidx.png" group-title="OSN",OSN-Discovery-IDX
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3011.ts
+#EXTINF:-1 tvg-ID="IDX HD" tvg-name="OSN-Discovery-IDX_(Backup)" tvg-logo="http://universeiptv.org/pics/osn/disidx.png" group-title="OSN",OSN-Discovery-IDX_(Backup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/8526.ts
+#EXTINF:-1 tvg-ID="Discovery Science HD" tvg-name="OSN-Discovery-SC" tvg-logo="http://universeiptv.org/pics/osn/disSCI.png" group-title="OSN",OSN-Discovery-SC
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2470.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-Disney" tvg-logo="http://universeiptv.org/pics/osn/DIS.png" group-title="OSN",OSN-Disney
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2560.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-Disney-Junior_(Audio-AR)" tvg-logo="http://universeiptv.org/pics/osn/DisJR.png" group-title="OSN",OSN-Disney-Junior_(Audio-AR)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3267.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-Disney-Junior_(Audio-EN)" tvg-logo="http://universeiptv.org/pics/osn/DisJR.png" group-title="OSN",OSN-Disney-Junior_(Audio-EN)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3508.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-Disney-XD" tvg-logo="http://universeiptv.org/pics/osn/DisXD.png" group-title="OSN",OSN-Disney-XD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3349.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-Docu-Box" tvg-logo="http://universeiptv.org/pics/osn/docu.PNG" group-title="OSN",OSN-Docu-Box
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3049.ts
+#EXTINF:-1 tvg-ID="E! Entertainment HD" tvg-name="OSN_E-HD" tvg-logo="http://universeiptv.org/pics/osn/ETV.png" group-title="OSN",OSN_E-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/61.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-Fashion" tvg-logo="http://universeiptv.org/pics/osn/fashion.png" group-title="OSN",OSN-Fashion
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3048.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-Fast-And-Fun" tvg-logo="http://universeiptv.org/pics/osn/fastfun.PNG" group-title="OSN",OSN-Fast-And-Fun
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3050.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-Fight-Box" tvg-logo="http://universeiptv.org/pics/osn/fightbox.PNG" group-title="OSN",OSN-Fight-Box
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3507.ts
+#EXTINF:-1 tvg-ID="OSN Fight Network HD" tvg-name="OSN-Fight-Network" tvg-logo="http://universeiptv.org/pics/osn/fightnetwork.png" group-title="OSN",OSN-Fight-Network
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2471.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-Fine-Living-HD" tvg-logo="http://universeiptv.org/pics/osn/FINeliving.png" group-title="OSN",OSN-Fine-Living-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3022.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-Fix-Foxi" tvg-logo="http://universeiptv.org/pics/osn/fixfoxi.PNG" group-title="OSN",OSN-Fix-Foxi
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3051.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-Fox-News" tvg-logo="http://universeiptv.org/pics/osn/FoXNews.png" group-title="OSN",OSN-Fox-News
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3352.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-Fuel-TV" tvg-logo="http://universeiptv.org/pics/osn/FUEl.png" group-title="OSN",OSN-Fuel-TV
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3228.ts
+#EXTINF:-1 tvg-ID="FXHD" tvg-name="OSN-FX-HD" tvg-logo="http://universeiptv.org/pics/osn/fxhd.PNG" group-title="OSN",OSN-FX-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3047.ts
+#EXTINF:-1 tvg-ID="FoxActMovHD" tvg-name="OSN_Fox_Action" tvg-logo="http://universeiptv.org/pics/osn/foxaction.PNG" group-title="OSN",OSN_Fox_Action
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2581.ts
+#EXTINF:-1 tvg-ID="FoxFamHD" tvg-name="OSN_Fox_Family" tvg-logo="http://universeiptv.org/pics/osn/foxfamily.PNG" group-title="OSN",OSN_Fox_Family
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2580.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-GINX-ESPORTS-TV" tvg-logo="http://universeiptv.org/pics/osn/GNX.png" group-title="OSN",OSN-GINX-ESPORTS-TV
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3351.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN_History" tvg-logo="http://universeiptv.org/pics/osn/HIS.png" group-title="OSN",OSN_History
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2661.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-H2-UK" tvg-logo="http://universeiptv.org/pics/osn/HI2.png" group-title="OSN",OSN-H2-UK
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3021.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-ITV-Choice" tvg-logo="http://universeiptv.org/pics/osn/itv.png" group-title="OSN",OSN-ITV-Choice
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3020.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-Kids-Zone" tvg-logo="http://universeiptv.org/pics/osn/KDZone.png" group-title="OSN",OSN-Kids-Zone
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2614.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-MBC-Drama" tvg-logo="http://universeiptv.org/pics/osn/mbc_ae_drama.png" group-title="OSN",OSN-MBC-Drama
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/39.ts
+#EXTINF:-1 tvg-ID="OSN Movies HD" tvg-name="OSN-Movies-HD" tvg-logo="http://universeiptv.org/pics/osn/movies.png" group-title="OSN",OSN-Movies-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/48.ts
+#EXTINF:-1 tvg-ID="OSN Movies HD" tvg-name="OSN-Movies-HD_(Backup)" tvg-logo="http://universeiptv.org/pics/osn/movies.png" group-title="OSN",OSN-Movies-HD_(Backup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/6612.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-Movies-2-HD" tvg-logo="http://universeiptv.org/pics/osn/mov2.png" group-title="OSN",OSN-Movies-2-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/60.ts
+#EXTINF:-1 tvg-ID="OSN Movies Action HD" tvg-name="OSN-Movies-Action-HD" tvg-logo="http://universeiptv.org/pics/osn/action.png" group-title="OSN",OSN-Movies-Action-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/52.ts
+#EXTINF:-1 tvg-ID="OSN Movies Action HD" tvg-name="OSN-Movies-Action-HD_(Backup)" tvg-logo="http://universeiptv.org/pics/osn/action.png" group-title="OSN",OSN-Movies-Action-HD_(Backup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/6609.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-Movies-Action-2-HD" tvg-logo="http://universeiptv.org/pics/osn/action2.png" group-title="OSN",OSN-Movies-Action-2-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/53.ts
+#EXTINF:-1 tvg-ID="OSN Movies Comedy HD" tvg-name="OSN-Movies-Comedy-HD" tvg-logo="http://universeiptv.org/pics/osn/movcomedy.png" group-title="OSN",OSN-Movies-Comedy-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/51.ts
+#EXTINF:-1 tvg-ID="OSN Movies Family HD" tvg-name="OSN-Movies-Disney" tvg-logo="http://universeiptv.org/pics/osn/movfamily.png" group-title="OSN",OSN-Movies-Disney
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2611.ts
+#EXTINF:-1 tvg-ID="OSN Movies Family HD" tvg-name="OSN-Movies-Disney_(Backup)" tvg-logo="http://universeiptv.org/pics/osn/movfamily.png" group-title="OSN",OSN-Movies-Disney_(Backup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/6614.ts
+#EXTINF:-1 tvg-ID="OSN Movies Festival HD" tvg-name="OSN-Movies-Festival-HD" tvg-logo="http://universeiptv.org/pics/osn/movfestival.png" group-title="OSN",OSN-Movies-Festival-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/49.ts
+#EXTINF:-1 tvg-ID="OSN Movies Festival HD" tvg-name="OSN-Movies-Festival-HD_(Backup)" tvg-logo="http://universeiptv.org/pics/osn/movfestival.png" group-title="OSN",OSN-Movies-Festival-HD_(Backup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/6611.ts
+#EXTINF:-1 tvg-ID="OSN Movies First HD" tvg-name="OSN-Movies-First-HD" tvg-logo="http://universeiptv.org/pics/osn/movfirst.png" group-title="OSN",OSN-Movies-First-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/47.ts
+#EXTINF:-1 tvg-ID="OSN Movies First HD" tvg-name="OSN-Movies-First-HD_(Backup)" tvg-logo="http://universeiptv.org/pics/osn/movfirst.png" group-title="OSN",OSN-Movies-First-HD_(Backup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/6613.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-Movies-First-2-HD" tvg-logo="http://universeiptv.org/pics/osn/movfirst2.png" group-title="OSN",OSN-Movies-First-2-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3019.ts
+#EXTINF:-1 tvg-ID="OSN Movies Kids HD" tvg-name="OSN-Movies-Kids-HD" tvg-logo="http://universeiptv.org/pics/osn/movkids.png" group-title="OSN",OSN-Movies-Kids-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/54.ts
+#EXTINF:-1 tvg-ID="OSN Movies Kids HD" tvg-name="OSN-Movies-Kids-HD_(Backup)" tvg-logo="http://universeiptv.org/pics/osn/movkids.png" group-title="OSN",OSN-Movies-Kids-HD_(Backup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/9251.ts
+#EXTINF:-1 tvg-ID="OSN Movies Thriller HD" tvg-name="OSN-Movies-Thriller-HD" tvg-logo="http://universeiptv.org/pics/osn/thriller.png" group-title="OSN",OSN-Movies-Thriller-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/50.ts
+#EXTINF:-1 tvg-ID="OSN Movies Thriller HD" tvg-name="OSN-Movies-Thriller-HD_(Backup)" tvg-logo="http://universeiptv.org/pics/osn/thriller.png" group-title="OSN",OSN-Movies-Thriller-HD_(Backup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/6610.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-Movies-Thriller-2" tvg-logo="http://universeiptv.org/pics/osn/thriller2.png" group-title="OSN",OSN-Movies-Thriller-2
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3052.ts
+#EXTINF:-1 tvg-ID="OSN First HBO HD" tvg-name="OSN-First-HBO" tvg-logo="http://universeiptv.org/pics/osn/firsthbo.png" group-title="OSN",OSN-First-HBO
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2443.ts
+#EXTINF:-1 tvg-ID="OSN First HBO HD" tvg-name="OSN-First-HBO_(Backup)" tvg-logo="http://universeiptv.org/pics/osn/firsthbo.png" group-title="OSN",OSN-First-HBO_(Backup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/7529.ts
+#EXTINF:-1 tvg-ID="OSN Series HD" tvg-name="OSN-Series-HD" tvg-logo="http://universeiptv.org/pics/osn/series.png" group-title="OSN",OSN-Series-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/36.ts
+#EXTINF:-1 tvg-ID="OSN Series First HD" tvg-name="OSN-Series-First-HD" tvg-logo="http://universeiptv.org/pics/osn/seriesfirst.png" group-title="OSN",OSN-Series-First-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/55.ts
+#EXTINF:-1 tvg-ID="OSN Series Comedy HD" tvg-name="OSN-Series-Comedy-HD" tvg-logo="http://universeiptv.org/pics/osn/seriescomedy.png" group-title="OSN",OSN-Series-Comedy-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/56.ts
+#EXTINF:-1 tvg-ID="OSN Series Comedy HD" tvg-name="OSN-Series-Comedy-HD_(Backup)" tvg-logo="http://universeiptv.org/pics/osn/seriescomedy.png" group-title="OSN",OSN-Series-Comedy-HD_(Backup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/7530.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-Series-Comedy-2-HD" tvg-logo="http://universeiptv.org/pics/osn/seriescomedy2.png" group-title="OSN",OSN-Series-Comedy-2-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3010.ts
+#EXTINF:-1 tvg-ID="Star_Movies_HD" tvg-name="OSN-Star-Movies-HD" tvg-logo="http://universeiptv.org/pics/osn/starmovies.png" group-title="OSN",OSN-Star-Movies-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/44.ts
+#EXTINF:-1 tvg-ID="Star_World_HD" tvg-name="OSN-Star-World-HD" tvg-logo="http://universeiptv.org/pics/osn/STarWorld.png" group-title="OSN",OSN-Star-World-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/43.ts
+#EXTINF:-1 tvg-ID="OSN Sports Action 1 HD" tvg-name="OSN_Sports_1" tvg-logo="http://universeiptv.org/pics/osn/SP1.png" group-title="OSN",OSN_Sports_1
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/898.ts
+#EXTINF:-1 tvg-ID="OSN Sports Action 2 HD" tvg-name="OSN_Sports_2" tvg-logo="http://universeiptv.org/pics/osn/SP2.png" group-title="OSN",OSN_Sports_2
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2577.ts
+#EXTINF:-1 tvg-ID="OSN Sports 3 HD" tvg-name="OSN_Sports_3" tvg-logo="http://universeiptv.org/pics/osn/SP3.png" group-title="OSN",OSN_Sports_3
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2578.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN_Sports_4" tvg-logo="http://universeiptv.org/pics/osn/SP4.png" group-title="OSN",OSN_Sports_4
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2612.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN_Sports_5" tvg-logo="http://universeiptv.org/pics/osn/SP5.png" group-title="OSN",OSN_Sports_5
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3642.ts
+#EXTINF:-1 tvg-ID="OSN Sports Cricket HD" tvg-name="OSN_Sports_Cricket" tvg-logo="http://universeiptv.org/pics/osn/sportCRIket.png" group-title="OSN",OSN_Sports_Cricket
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2665.ts
+#EXTINF:-1 tvg-ID="Ten Cricket International" tvg-name="OSN-Ten-Cricket" tvg-logo="http://universeiptv.org/pics/osn/tencricket.png" group-title="OSN",OSN-Ten-Cricket
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3269.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-SUNDANCE-TV" tvg-logo="http://universeiptv.org/pics/osn/SUN.png" group-title="OSN",OSN-SUNDANCE-TV
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3350.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-MTV-LIVE-HD" tvg-logo="http://universeiptv.org/pics/osn/Mtv.png" group-title="OSN",OSN-MTV-LIVE-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3268.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-Myme-Music" tvg-logo="http://universeiptv.org/pics/osn/musicNOW.png" group-title="OSN",OSN-Myme-Music
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3271.ts
+#EXTINF:-1 tvg-ID="NatGeo_HD" tvg-name="OSN-National-Geographic" tvg-logo="http://universeiptv.org/pics/osn/NatGeO.png" group-title="OSN",OSN-National-Geographic
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3276.ts
+#EXTINF:-1 tvg-ID="Nat Geo HD" tvg-name="OSN-National-Geographic_(Backup)" tvg-logo="http://universeiptv.org/pics/osn/NatGeO.png" group-title="OSN",OSN-National-Geographic_(Backup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/6998.ts
+#EXTINF:-1 tvg-ID="NatGeoPeople_HD" tvg-name="OSN-Nat-Geo-People" tvg-logo="http://universeiptv.org/pics/osn/NAtpeople.png" group-title="OSN",OSN-Nat-Geo-People
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2473.ts
+#EXTINF:-1 tvg-ID="NatGeoWild_HD" tvg-name="OSN-Nat-Geo-Wild-HD" tvg-logo="http://universeiptv.org/pics/osn/Natwild.png" group-title="OSN",OSN-Nat-Geo-Wild-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/46.ts
+#EXTINF:-1 tvg-ID="NatGeoWild_HD" tvg-name="OSN-Nat-Geo-Wild-HD_(Backup)" tvg-logo="http://universeiptv.org/pics/osn/Natwild.png" group-title="OSN",OSN-Nat-Geo-Wild-HD_(Backup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/8525.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-Nautical" tvg-logo="http://universeiptv.org/pics/osn/Nautical-Channel.png" group-title="OSN",OSN-Nautical
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/6967.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-News" tvg-logo="http://universeiptv.org/pics/osn/Osnnews.png" group-title="OSN",OSN-News
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3018.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN_Nickelodeon_(Audio-AR)" tvg-logo="http://universeiptv.org/pics/osn/NICk.png" group-title="OSN",OSN_Nickelodeon_(Audio-AR)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2664.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN_Nickelodeon_(Audio-EN)" tvg-logo="http://universeiptv.org/pics/osn/NICk.png" group-title="OSN",OSN_Nickelodeon_(Audio-EN)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3509.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN_Nickelodeon_Junior_(Audio-AR)" tvg-logo="http://universeiptv.org/pics/osn/NickJR.png" group-title="OSN",OSN_Nickelodeon_Junior_(Audio-AR)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2663.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN_Nickelodeon_Junior_(Audio-EN)" tvg-logo="http://universeiptv.org/pics/osn/NickJR.png" group-title="OSN",OSN_Nickelodeon_Junior_(Audio-EN)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3510.ts
+#EXTINF:-1 tvg-ID="OutdoorChannel" tvg-name="OSN-Outdoor" tvg-logo="http://universeiptv.org/pics/osn/outdoor.PNG" group-title="OSN",OSN-Outdoor
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3017.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-Paramount-Channel" tvg-logo="http://universeiptv.org/pics/osn/paramount.png" group-title="OSN",OSN-Paramount-Channel
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/5226.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-Planet-Earth-HD" tvg-logo="" group-title="OSN",OSN-Planet-Earth-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/6615.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-Philipine-AKSYON-TV" tvg-logo="http://universeiptv.org/pics/osn/AKS.png" group-title="OSN",OSN-Philipine-AKSYON-TV
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/6974.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-Philipine-ANC" tvg-logo="http://universeiptv.org/pics/osn/ANC.png" group-title="OSN",OSN-Philipine-ANC
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/6973.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-Philipine-CINEMAONE" tvg-logo="http://universeiptv.org/pics/osn/COG.png" group-title="OSN",OSN-Philipine-CINEMAONE
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/6972.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-Philipine-CNN" tvg-logo="http://universeiptv.org/pics/osn/cnn_usa.png" group-title="OSN",OSN-Philipine-CNN
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/6968.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-Philipine-DZMM" tvg-logo="http://universeiptv.org/pics/osn/DZM.png" group-title="OSN",OSN-Philipine-DZMM
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/6971.ts
+#EXTINF:-1 tvg-ID="GMA Life TV" tvg-name="OSN-Philipine-GMA-Life-TV" tvg-logo="http://universeiptv.org/pics/osn/gmalife.PNG" group-title="OSN",OSN-Philipine-GMA-Life-TV
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3457.ts
+#EXTINF:-1 tvg-ID="GMA News TV" tvg-name="OSN-Philipine-GMA-News-TV" tvg-logo="http://universeiptv.org/pics/osn/gmanews.PNG" group-title="OSN",OSN-Philipine-GMA-News-TV
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3458.ts
+#EXTINF:-1 tvg-ID="GMA Pinoy TV" tvg-name="OSN-Philipine-GMA-Pinoy-TV" tvg-logo="http://universeiptv.org/pics/osn/gmapinoy.PNG" group-title="OSN",OSN-Philipine-GMA-Pinoy-TV
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3459.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-Philipine-MYX-TV" tvg-logo="http://universeiptv.org/pics/osn/MYX.png" group-title="OSN",OSN-Philipine-MYX-TV
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/6969.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-Philipine-TFC" tvg-logo="http://universeiptv.org/pics/osn/TFC.png" group-title="OSN",OSN-Philipine-TFC
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/6970.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-SeeVii-Al-Aoula-HD" tvg-logo="http://universeiptv.org/pics/osn/seealoula.PNG" group-title="OSN",OSN-SeeVii-Al-Aoula-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3015.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-SeeVii-Drama-HD" tvg-logo="http://universeiptv.org/pics/osn/siidrama.PNG" group-title="OSN",OSN-SeeVii-Drama-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3013.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-SeeVii-Prime-1-HD" tvg-logo="http://universeiptv.org/pics/osn/seeprime1.PNG" group-title="OSN",OSN-SeeVii-Prime-1-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3700.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-SeeVii-Prime-2-HD" tvg-logo="http://universeiptv.org/pics/osn/seeviiprime2.png" group-title="OSN",OSN-SeeVii-Prime-2-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3701.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-SeeVii-Prime-3-HD" tvg-logo="http://universeiptv.org/pics/osn/seeviiprime3.png" group-title="OSN",OSN-SeeVii-Prime-3-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3702.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-SeeVii-Shamiya-HD" tvg-logo="http://universeiptv.org/pics/osn/siishamya.PNG" group-title="OSN",OSN-SeeVii-Shamiya-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3012.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-SeeVii-Shoof-HD" tvg-logo="" group-title="OSN",OSN-SeeVii-Shoof-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/4376.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-Syfy" tvg-logo="http://universeiptv.org/pics/osn/SFY.png" group-title="OSN",OSN-Syfy
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2474.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-TLC-HD" tvg-logo="http://universeiptv.org/pics/osn/TLC.png" group-title="OSN",OSN-TLC-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3009.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-Trace-Urban" tvg-logo="http://universeiptv.org/pics/osn/trace.png" group-title="OSN",OSN-Trace-Urban
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3227.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-VH-1" tvg-logo="http://universeiptv.org/pics/osn/VH1.png" group-title="OSN",OSN-VH-1
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/6966.ts
+#EXTINF:-1 tvg-ID="OSN WWE Network HD" tvg-name="OSN-WWE" tvg-logo="http://universeiptv.org/pics/osn/WWE.png" group-title="OSN",OSN-WWE
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2032.ts
+#EXTINF:-1 tvg-ID="OSN WWE Network HD" tvg-name="OSN-WWE_(Backup)" tvg-logo="http://universeiptv.org/pics/osn/WWE.png" group-title="OSN",OSN-WWE_(Backup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/6650.ts
+#EXTINF:-1 tvg-ID="OSN WWE Network HD" tvg-name="OSN-WWE_(Backup-2)" tvg-logo="http://universeiptv.org/pics/osn/WWE.png" group-title="OSN",OSN-WWE_(Backup-2)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/6959.ts
+#EXTINF:-1 tvg-ID="OSN Ya Hala HD" tvg-name="OSN-YaHala--HD" tvg-logo="http://universeiptv.org/pics/osn/OYA.png" group-title="OSN",OSN-YaHala--HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/38.ts
+#EXTINF:-1 tvg-ID="OSN Ya Hala HD" tvg-name="OSN-YaHala--HD_(Backup)" tvg-logo="http://universeiptv.org/pics/osn/OYA.png" group-title="OSN",OSN-YaHala--HD_(Backup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/6607.ts
+#EXTINF:-1 tvg-ID="OSN Ya Hala Al Oula" tvg-name="OSN-YaHala-First-HD" tvg-logo="http://universeiptv.org/pics/osn/OYH1.png" group-title="OSN",OSN-YaHala-First-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/37.ts
+#EXTINF:-1 tvg-ID="OSN Ya Hala Al Oula" tvg-name="OSN-YaHala-First-HD_(Backup)" tvg-logo="http://universeiptv.org/pics/osn/OYH1.png" group-title="OSN",OSN-YaHala-First-HD_(Backup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/6608.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-YaHala-First-2-HD" tvg-logo="http://universeiptv.org/pics/osn/OY-2.png" group-title="OSN",OSN-YaHala-First-2-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3016.ts
+#EXTINF:-1 tvg-ID="OSN Yahala Cinema HD" tvg-name="OSN-YAHALA-CINEMA" tvg-logo="http://universeiptv.org/pics/osn/yahalacinema.png" group-title="OSN",OSN-YAHALA-CINEMA
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2043.ts
+#EXTINF:-1 tvg-ID="OSN Yahala Cinema HD" tvg-name="OSN-YAHALA-CINEMA_(Backup)" tvg-logo="http://universeiptv.org/pics/osn/yahalacinema.png" group-title="OSN",OSN-YAHALA-CINEMA_(Backup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/6606.ts
+#EXTINF:-1 tvg-ID="OSN Yahala Cinema HD" tvg-name="OSN-YAHALA-CINEMA_(Backup-2)" tvg-logo="http://universeiptv.org/pics/osn/yahalacinema.png" group-title="OSN",OSN-YAHALA-CINEMA_(Backup-2)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/6960.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-BOX-OFFICE-1-HD" tvg-logo="http://universeiptv.org/pics/osn/BO1.png" group-title="OSN",OSN-BOX-OFFICE-1-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/40.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-BOX-OFFICE-2-HD" tvg-logo="http://universeiptv.org/pics/osn/BO2.png" group-title="OSN",OSN-BOX-OFFICE-2-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/41.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-BOX-OFFICE-3-HD" tvg-logo="http://universeiptv.org/pics/osn/BO3.png" group-title="OSN",OSN-BOX-OFFICE-3-HD
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/42.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN_On_Demand_1" tvg-logo="http://universeiptv.org/pics/osn/osn_on_demand_hd.png" group-title="OSN",OSN_On_Demand_1
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/899.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN_On_Demand_2" tvg-logo="http://universeiptv.org/pics/osn/osn_on_demand_hd.png" group-title="OSN",OSN_On_Demand_2
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/900.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN_On_Demand_Extra_1" tvg-logo="http://universeiptv.org/pics/osn/ondemandextra.PNG" group-title="OSN",OSN_On_Demand_Extra_1
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2166.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN_On_Demand_Extra_2" tvg-logo="http://universeiptv.org/pics/osn/ondemandextra.PNG" group-title="OSN",OSN_On_Demand_Extra_2
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2167.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-HOME-CINEMA1" tvg-logo="http://universeiptv.org/pics/osn/goosn.PNG" group-title="OSN",OSN-HOME-CINEMA1
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1565.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-HOME-CINEMA2" tvg-logo="http://universeiptv.org/pics/osn/goosn.PNG" group-title="OSN",OSN-HOME-CINEMA2
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1566.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-HOME-CINEMA3" tvg-logo="http://universeiptv.org/pics/osn/goosn.PNG" group-title="OSN",OSN-HOME-CINEMA3
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1581.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-HOME-CINEMA4" tvg-logo="http://universeiptv.org/pics/osn/goosn.PNG" group-title="OSN",OSN-HOME-CINEMA4
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1582.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-HOME-CINEMA5" tvg-logo="http://universeiptv.org/pics/osn/goosn.PNG" group-title="OSN",OSN-HOME-CINEMA5
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1583.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-HOME-CINEMA6" tvg-logo="http://universeiptv.org/pics/osn/goosn.PNG" group-title="OSN",OSN-HOME-CINEMA6
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1584.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-HOME-CINEMA7" tvg-logo="http://universeiptv.org/pics/osn/goosn.PNG" group-title="OSN",OSN-HOME-CINEMA7
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1585.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-HOME-CINEMA8" tvg-logo="http://universeiptv.org/pics/osn/goosn.PNG" group-title="OSN",OSN-HOME-CINEMA8
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1586.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-HOME-CINEMA9" tvg-logo="http://universeiptv.org/pics/osn/goosn.PNG" group-title="OSN",OSN-HOME-CINEMA9
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1587.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-HOME-CINEMA10" tvg-logo="http://universeiptv.org/pics/osn/goosn.PNG" group-title="OSN",OSN-HOME-CINEMA10
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1588.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-PLAY-CINEMA1" tvg-logo="http://universeiptv.org/pics/osn/osnplay.PNG" group-title="OSN",OSN-PLAY-CINEMA1
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1759.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-PLAY-CINEMA2" tvg-logo="http://universeiptv.org/pics/osn/osnplay.PNG" group-title="OSN",OSN-PLAY-CINEMA2
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1762.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-PLAY-CINEMA3" tvg-logo="http://universeiptv.org/pics/osn/osnplay.PNG" group-title="OSN",OSN-PLAY-CINEMA3
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1764.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-PLAY-CINEMA4" tvg-logo="http://universeiptv.org/pics/osn/osnplay.PNG" group-title="OSN",OSN-PLAY-CINEMA4
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1765.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-PLAY-CINEMA5" tvg-logo="http://universeiptv.org/pics/osn/osnplay.PNG" group-title="OSN",OSN-PLAY-CINEMA5
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1766.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-PLAY-CINEMA6" tvg-logo="http://universeiptv.org/pics/osn/osnplay.PNG" group-title="OSN",OSN-PLAY-CINEMA6
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1767.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-PLAY-CINEMA7" tvg-logo="http://universeiptv.org/pics/osn/osnplay.PNG" group-title="OSN",OSN-PLAY-CINEMA7
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1768.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-PLAY-CINEMA8" tvg-logo="http://universeiptv.org/pics/osn/osnplay.PNG" group-title="OSN",OSN-PLAY-CINEMA8
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1769.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-PLAY-CINEMA9" tvg-logo="http://universeiptv.org/pics/osn/osnplay.PNG" group-title="OSN",OSN-PLAY-CINEMA9
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1770.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OSN-PLAY-CINEMA10" tvg-logo="http://universeiptv.org/pics/osn/osnplay.PNG" group-title="OSN",OSN-PLAY-CINEMA10
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1771.ts
+#EXTINF:-1 tvg-ID="" tvg-name="=================ARABIC_FREE=================" tvg-logo="" group-title="",=================ARABIC_FREE=================
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1706.ts
+#EXTINF:-1 tvg-ID="" tvg-name="===MBC-GROUP===" tvg-logo="" group-title="",===MBC-GROUP===
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2991.ts
+#EXTINF:-1 tvg-ID="MBC 1" tvg-name="AR:MBC_1" tvg-logo="http://universeiptv.org/pics/mbc/mbc_ae_1.png" group-title="MBC-GROUP",AR:MBC_1
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1265.ts
+#EXTINF:-1 tvg-ID="MBC 1" tvg-name="AR:MBC_1_(Backup)" tvg-logo="http://universeiptv.org/pics/mbc/mbc_ae_1.png" group-title="MBC-GROUP",AR:MBC_1_(Backup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2729.ts
+#EXTINF:-1 tvg-ID="MBC 2" tvg-name="AR:MBC_2" tvg-logo="http://universeiptv.org/pics/mbc/mbc_ae_2.png" group-title="MBC-GROUP",AR:MBC_2
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1264.ts
+#EXTINF:-1 tvg-ID="MBC 2" tvg-name="AR:MBC_2_(Backup)" tvg-logo="http://universeiptv.org/pics/mbc/mbc_ae_2.png" group-title="MBC-GROUP",AR:MBC_2_(Backup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2730.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:MBC_3" tvg-logo="http://universeiptv.org/pics/mbc/mbc_ae_3.png" group-title="MBC-GROUP",AR:MBC_3
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1263.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:MBC_3_(Backup)" tvg-logo="http://universeiptv.org/pics/mbc/mbc_ae_3.png" group-title="MBC-GROUP",AR:MBC_3_(Backup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2731.ts
+#EXTINF:-1 tvg-ID="MBC 4" tvg-name="AR:MBC_4" tvg-logo="http://universeiptv.org/pics/mbc/mbc_ae_4.png" group-title="MBC-GROUP",AR:MBC_4
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1262.ts
+#EXTINF:-1 tvg-ID="MBC 4" tvg-name="AR:MBC_4_(Backup)" tvg-logo="http://universeiptv.org/pics/mbc/mbc_ae_4.png" group-title="MBC-GROUP",AR:MBC_4_(Backup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2732.ts
+#EXTINF:-1 tvg-ID="MBC Action" tvg-name="AR:MBC_Action" tvg-logo="http://universeiptv.org/pics/mbc/mbc_ae_action.png" group-title="MBC-GROUP",AR:MBC_Action
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1261.ts
+#EXTINF:-1 tvg-ID="MBC Action" tvg-name="AR:MBC_Action_(Backup)" tvg-logo="http://universeiptv.org/pics/mbc/mbc_ae_action.png" group-title="MBC-GROUP",AR:MBC_Action_(Backup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2733.ts
+#EXTINF:-1 tvg-ID="MBC Bollywood" tvg-name="AR:MBC_Bollywood" tvg-logo="http://universeiptv.org/pics/mbc/mbc_ae_bollywood.png" group-title="MBC-GROUP",AR:MBC_Bollywood
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1260.ts
+#EXTINF:-1 tvg-ID="MBC Bollywood" tvg-name="AR:MBC_Bollywood_(Backup)" tvg-logo="http://universeiptv.org/pics/mbc/mbc_ae_bollywood.png" group-title="MBC-GROUP",AR:MBC_Bollywood_(Backup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2734.ts
+#EXTINF:-1 tvg-ID="MBC Drama" tvg-name="AR:MBC_Drama" tvg-logo="http://universeiptv.org/pics/mbc/mbc_ae_drama.png" group-title="MBC-GROUP",AR:MBC_Drama
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1259.ts
+#EXTINF:-1 tvg-ID="Mbc Masr" tvg-name="AR:MBC_Masr" tvg-logo="http://universeiptv.org/pics/mbc/mbc_ae_masr.png" group-title="MBC-GROUP",AR:MBC_Masr
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1258.ts
+#EXTINF:-1 tvg-ID="Mbc Masr" tvg-name="AR:MBC_MASR_(backup)" tvg-logo="http://universeiptv.org/pics/mbc/mbc_ae_masr.png" group-title="MBC-GROUP",AR:MBC_MASR_(backup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2316.ts
+#EXTINF:-1 tvg-ID="Mbc Masr 2" tvg-name="AR:MBC_Masr_2" tvg-logo="http://universeiptv.org/pics/mbc/mbc_ae_masr_2.png" group-title="MBC-GROUP",AR:MBC_Masr_2
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1257.ts
+#EXTINF:-1 tvg-ID="Mbc Masr 2" tvg-name="AR:MBC_MASR_2_(backup)" tvg-logo="http://universeiptv.org/pics/mbc/mbc_ae_masr_2.png" group-title="MBC-GROUP",AR:MBC_MASR_2_(backup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2315.ts
+#EXTINF:-1 tvg-ID="MBC Max" tvg-name="AR:MBC_Max" tvg-logo="http://universeiptv.org/pics/mbc/mbc_ae_max.png" group-title="MBC-GROUP",AR:MBC_Max
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1256.ts
+#EXTINF:-1 tvg-ID="Mbc PRO SPORTS 1" tvg-name="AR:Mbc_Pro_Sport_1" tvg-logo="http://universeiptv.org/pics/mbc/mbcprosport1.PNG" group-title="MBC-GROUP",AR:Mbc_Pro_Sport_1
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/901.ts
+#EXTINF:-1 tvg-ID="Mbc PRO SPORTS 1" tvg-name="AR:MBC_PRO_SP_1_(BACKUP)" tvg-logo="http://universeiptv.org/pics/mbc/mbcprosport1.PNG" group-title="MBC-GROUP",AR:MBC_PRO_SP_1_(BACKUP)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2997.ts
+#EXTINF:-1 tvg-ID="Mbc PRO SPORTS 2" tvg-name="AR:Mbc_Pro_Sport_2" tvg-logo="http://universeiptv.org/pics/mbc/mbcprosport2.PNG" group-title="MBC-GROUP",AR:Mbc_Pro_Sport_2
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/902.ts
+#EXTINF:-1 tvg-ID="Mbc PRO SPORTS 2" tvg-name="AR:MBC_PRO_SP_2_(BACKUP)" tvg-logo="http://universeiptv.org/pics/mbc/mbcprosport2.PNG" group-title="MBC-GROUP",AR:MBC_PRO_SP_2_(BACKUP)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2996.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Mbc_Pro_Sport_3" tvg-logo="http://universeiptv.org/pics/mbc/mbcprosport3.PNG" group-title="MBC-GROUP",AR:Mbc_Pro_Sport_3
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/903.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:MBC_PRO_SP_3_(BACKUP)" tvg-logo="http://universeiptv.org/pics/mbc/mbcprosport3.PNG" group-title="MBC-GROUP",AR:MBC_PRO_SP_3_(BACKUP)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2995.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Mbc_Pro_Sport_4" tvg-logo="http://universeiptv.org/pics/mbc/mbcprosport4.PNG" group-title="MBC-GROUP",AR:Mbc_Pro_Sport_4
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2031.ts
+#EXTINF:-1 tvg-ID="" tvg-name="===MBC-GROUP-USA===" tvg-logo="" group-title="",===MBC-GROUP-USA===
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/8160.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:MBC_1_USA" tvg-logo="http://universeiptv.org/pics/mbc/mbc_ae_1.png" group-title="MBC-GROUP-USA",AR:MBC_1_USA
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/8146.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:MBC_2_USA" tvg-logo="http://universeiptv.org/pics/mbc/mbc_ae_2.png" group-title="MBC-GROUP-USA",AR:MBC_2_USA
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/8145.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:MBC_3_USA" tvg-logo="http://universeiptv.org/pics/mbc/mbc_ae_3.png" group-title="MBC-GROUP-USA",AR:MBC_3_USA
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/8144.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:MBC_4_USA" tvg-logo="http://universeiptv.org/pics/mbc/mbc_ae_4.png" group-title="MBC-GROUP-USA",AR:MBC_4_USA
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/8143.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:MBC_Action_USA" tvg-logo="http://universeiptv.org/pics/mbc/mbc_ae_action.png" group-title="MBC-GROUP-USA",AR:MBC_Action_USA
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/8142.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:MBC_Bollywood_USA" tvg-logo="http://universeiptv.org/pics/mbc/mbc_ae_bollywood.png" group-title="MBC-GROUP-USA",AR:MBC_Bollywood_USA
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/8141.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:MBC_Drama_USA" tvg-logo="http://universeiptv.org/pics/mbc/mbc_ae_drama.png" group-title="MBC-GROUP-USA",AR:MBC_Drama_USA
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/8140.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:MBC_Masr_USA" tvg-logo="http://universeiptv.org/pics/mbc/mbc_ae_masr.png" group-title="MBC-GROUP-USA",AR:MBC_Masr_USA
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/8139.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:MBC_Masr_2_USA" tvg-logo="http://universeiptv.org/pics/mbc/mbc_ae_masr_2.png" group-title="MBC-GROUP-USA",AR:MBC_Masr_2_USA
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/8138.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:MBC_Max_USA" tvg-logo="http://universeiptv.org/pics/mbc/mbc_ae_max.png" group-title="MBC-GROUP-USA",AR:MBC_Max_USA
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/8137.ts
+#EXTINF:-1 tvg-ID="" tvg-name="==EGYPT-CHANNEL==" tvg-logo="" group-title="",==EGYPT-CHANNEL==
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2971.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:ALASSEMA" tvg-logo="http://universeiptv.org/pics/mbc/al_assema_eg.png" group-title="EGYPT",AR:ALASSEMA
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3033.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:ALASSEMA_2" tvg-logo="http://universeiptv.org/pics/mbc/al_assema_eg_2.png" group-title="EGYPT",AR:ALASSEMA_2
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3056.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Al_Kahera_Wal_Nas" tvg-logo="http://universeiptv.org/pics/mbc/al_kahera_wal_nes.png" group-title="EGYPT",AR:Al_Kahera_Wal_Nas
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1324.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Al_Kahera_Wal_Nas_2" tvg-logo="http://universeiptv.org/pics/arabicfta/kahera2.png" group-title="EGYPT",AR:Al_Kahera_Wal_Nas_2
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1774.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:ALHayat" tvg-logo="http://universeiptv.org/pics/mbc/alhayat.png" group-title="EGYPT",AR:ALHayat
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1352.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:ALHAYAT_(backup)" tvg-logo="http://universeiptv.org/pics/mbc/alhayat.png" group-title="EGYPT",AR:ALHAYAT_(backup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2317.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Alhayat_2" tvg-logo="http://universeiptv.org/pics/mbc/hayat2.PNG" group-title="EGYPT",AR:Alhayat_2
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1351.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:ALHAYAT_2_(backup)" tvg-logo="http://universeiptv.org/pics/mbc/hayat2.PNG" group-title="EGYPT",AR:ALHAYAT_2_(backup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2318.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:ALHayat_Musalsalat" tvg-logo="http://universeiptv.org/pics/mbc/alhayat_series.png" group-title="EGYPT",AR:ALHayat_Musalsalat
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1350.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Al-hayat-We-Alnas" tvg-logo="http://universeiptv.org/pics/mbc/hayatwelnas.PNG" group-title="EGYPT",AR:Al-hayat-We-Alnas
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1775.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Al_Nahar" tvg-logo="http://universeiptv.org/pics/mbc/al_nahar_eg.png" group-title="EGYPT",AR:Al_Nahar
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1317.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:AL_NAHAR_(backup)" tvg-logo="http://universeiptv.org/pics/mbc/al_nahar_eg.png" group-title="EGYPT",AR:AL_NAHAR_(backup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2324.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Al_Nahar_Drama" tvg-logo="http://universeiptv.org/pics/mbc/al_nahar_eg_drama.png" group-title="EGYPT",AR:Al_Nahar_Drama
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1315.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:AL_NAHAR_DRAMA_(backup)" tvg-logo="http://universeiptv.org/pics/mbc/al_nahar_eg_drama.png" group-title="EGYPT",AR:AL_NAHAR_DRAMA_(backup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2325.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:CBC" tvg-logo="http://universeiptv.org/pics/mbc/cbc_eg.png" group-title="EGYPT",AR:CBC
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1296.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:CBC_(backup)" tvg-logo="http://universeiptv.org/pics/mbc/cbc_eg.png" group-title="EGYPT",AR:CBC_(backup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2323.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:CBC_Drama" tvg-logo="http://universeiptv.org/pics/mbc/cbc_eg_drama.png" group-title="EGYPT",AR:CBC_Drama
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1294.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:CBC_DRAMA_(backup)" tvg-logo="http://universeiptv.org/pics/mbc/cbc_eg_drama.png" group-title="EGYPT",AR:CBC_DRAMA_(backup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2321.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:CBC_EXTRA" tvg-logo="http://universeiptv.org/pics/mbc/cbc_eg_extra.png" group-title="EGYPT",AR:CBC_EXTRA
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1422.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:CBC_EXTRA_(backup)" tvg-logo="http://universeiptv.org/pics/mbc/cbc_eg_extra.png" group-title="EGYPT",AR:CBC_EXTRA_(backup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2320.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:CBC_Sofra" tvg-logo="http://universeiptv.org/pics/mbc/cbc_eg_sofra.png" group-title="EGYPT",AR:CBC_Sofra
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1293.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:CBC_SOFRA_(backup)" tvg-logo="http://universeiptv.org/pics/mbc/cbc_eg_sofra.png" group-title="EGYPT",AR:CBC_SOFRA_(backup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2319.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Dmc" tvg-logo="http://universeiptv.org/pics/mbc/dmc_eg.png" group-title="EGYPT",AR:Dmc
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3291.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Dmc_(Backup)" tvg-logo="http://universeiptv.org/pics/mbc/dmc_eg.png" group-title="EGYPT",AR:Dmc_(Backup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3417.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Dmc_Drama" tvg-logo="http://universeiptv.org/pics/mbc/dmc_eg_drama.png" group-title="EGYPT",AR:Dmc_Drama
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3292.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Dmc_Drama_(Backup)" tvg-logo="http://universeiptv.org/pics/mbc/dmc_eg_drama.png" group-title="EGYPT",AR:Dmc_Drama_(Backup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3416.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Dmc_Sports" tvg-logo="http://universeiptv.org/pics/mbc/dmc_eg_sports.png" group-title="EGYPT",AR:Dmc_Sports
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2738.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Dmc_Sports_(BACKUP)" tvg-logo="http://universeiptv.org/pics/mbc/dmc_eg_sports.png" group-title="EGYPT",AR:Dmc_Sports_(BACKUP)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2998.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Dream_2" tvg-logo="http://universeiptv.org/pics/mbc/dream2_eg.png" group-title="EGYPT",AR:Dream_2
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1648.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:DW_ARABIA" tvg-logo="http://universeiptv.org/pics/arabicfta/dw.png" group-title="NEWS",AR:DW_ARABIA
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3656.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Melody_Classic" tvg-logo="http://universeiptv.org/pics/mbc/melody_tv_eg_classic.png" group-title="EGYPT",AR:Melody_Classic
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1251.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Moga_Comedy" tvg-logo="http://universeiptv.org/pics/mbc/moga_comedy_tv.png" group-title="EGYPT",AR:Moga_Comedy
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1250.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Nile_Cinema" tvg-logo="http://universeiptv.org/pics/mbc/nile_cinema_eg.png" group-title="EGYPT",AR:Nile_Cinema
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1242.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Nile_Comedy" tvg-logo="http://universeiptv.org/pics/mbc/nile_comedy_eg.png" group-title="EGYPT",AR:Nile_Comedy
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1241.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Nile_Drama" tvg-logo="http://universeiptv.org/pics/mbc/nile_drama_eg.png" group-title="EGYPT",AR:Nile_Drama
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1240.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Nile_Family" tvg-logo="http://universeiptv.org/pics/mbc/nile_family_eg.png" group-title="EGYPT",AR:Nile_Family
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3058.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Nile_Life" tvg-logo="http://universeiptv.org/pics/mbc/nile_life_eg.png" group-title="EGYPT",AR:Nile_Life
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1424.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Nile_News" tvg-logo="http://universeiptv.org/pics/mbc/nile_news_eg.png" group-title="NEWS",AR:Nile_News
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1239.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Nile_Sport" tvg-logo="http://universeiptv.org/pics/mbc/nile_sport_eg.png" group-title="EGYPT",AR:Nile_Sport
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1238.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Nile_Tv" tvg-logo="http://universeiptv.org/pics/mbc/nile_tv_international_eg.png" group-title="EGYPT",AR:Nile_Tv
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1237.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:On_Drama" tvg-logo="http://universeiptv.org/pics/mbc/ondrama.PNG" group-title="EGYPT",AR:On_Drama
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/4003.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:ONTV_E" tvg-logo="http://universeiptv.org/pics/mbc/on_tv_eg.png" group-title="EGYPT",AR:ONTV_E
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1234.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:ONTV_E_(Backup)" tvg-logo="http://universeiptv.org/pics/mbc/on_tv_eg.png" group-title="EGYPT",AR:ONTV_E_(Backup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1233.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:ONTV_E_(Backup_2)" tvg-logo="http://universeiptv.org/pics/mbc/on_tv_eg.png" group-title="EGYPT",AR:ONTV_E_(Backup_2)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3413.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:On_Live" tvg-logo="http://universeiptv.org/pics/mbc/on_tv_eg_live.png" group-title="EGYPT",AR:On_Live
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2739.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:On_Sport" tvg-logo="http://universeiptv.org/pics/mbc/on_tv_eg_sport.png" group-title="EGYPT",AR:On_Sport
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2328.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:On_Sport_(Backup)" tvg-logo="http://universeiptv.org/pics/mbc/on_tv_eg_sport.png" group-title="EGYPT",AR:On_Sport_(Backup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2724.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:On_Sport_(Backup_2)" tvg-logo="http://universeiptv.org/pics/mbc/on_tv_eg_sport.png" group-title="EGYPT",AR:On_Sport_(Backup_2)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3414.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Panorama_Drama" tvg-logo="http://universeiptv.org/pics/mbc/panorama_drama.png" group-title="EGYPT",AR:Panorama_Drama
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1231.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Panorama_Drama_2" tvg-logo="http://universeiptv.org/pics/mbc/panorama_drama_2.png" group-title="EGYPT",AR:Panorama_Drama_2
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1230.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:PANORAMA_FILM" tvg-logo="http://universeiptv.org/pics/mbc/panorama_film.png" group-title="EGYPT",AR:PANORAMA_FILM
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1419.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:PANORAMA_COMEDY" tvg-logo="http://universeiptv.org/pics/arabicfta/panoramacomedy.PNG" group-title="EGYPT",AR:PANORAMA_COMEDY
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1420.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Panorama_Food" tvg-logo="http://universeiptv.org/pics/mbc/panorama_food_eg.png" group-title="EGYPT",AR:Panorama_Food
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1229.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Sada_Al_Balad" tvg-logo="http://universeiptv.org/pics/mbc/sada_el_balad_tv.png" group-title="EGYPT",AR:Sada_Al_Balad
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1218.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Sada_Al_Balad_2" tvg-logo="http://universeiptv.org/pics/mbc/sada_el_balad_tv_2.png" group-title="EGYPT",AR:Sada_Al_Balad_2
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3057.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Sada_Albalad_Drama" tvg-logo="http://universeiptv.org/pics/mbc/sada_el_balad_drama.png" group-title="EGYPT",AR:Sada_Albalad_Drama
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1418.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Al_Masriyah" tvg-logo="http://universeiptv.org/pics/mbc/al_masriya_eg.png" group-title="EGYPT",AR:Al_Masriyah
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1320.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Al_Oula" tvg-logo="http://universeiptv.org/pics/mbc/ertu1_egypt.png" group-title="EGYPT",AR:Al_Oula
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1313.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Al_Thanya" tvg-logo="http://universeiptv.org/pics/mbc/ertu2_egypt.png" group-title="EGYPT",AR:Al_Thanya
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2502.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Al_Mehwar" tvg-logo="http://universeiptv.org/pics/mbc/el_mehwar_tv1_eg.png" group-title="EGYPT",AR:Al_Mehwar
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1318.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:ALBEIT_BEITAK_CINEMA" tvg-logo="" group-title="EGYPT",AR:ALBEIT_BEITAK_CINEMA
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1427.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR_7BESHA" tvg-logo="http://universeiptv.org/pics/arabicfta/hbesha.PNG" group-title="EGYPT",AR_7BESHA
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1791.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:AL_SA3AA_AFLAM" tvg-logo="http://universeiptv.org/pics/arabicfta/sa3aa_aflam.PNG" group-title="EGYPT",AR:AL_SA3AA_AFLAM
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/8529.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:AL_SA3AA_COMEDY" tvg-logo="http://universeiptv.org/pics/arabicfta/sa3a-comedy.png" group-title="EGYPT",AR:AL_SA3AA_COMEDY
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/7625.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:AL_SA3AA_FILM" tvg-logo="http://universeiptv.org/pics/arabicfta/sa3a-aflam.PNG" group-title="EGYPT",AR:AL_SA3AA_FILM
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/7624.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:AL_SA3AA_MASRA7" tvg-logo="http://universeiptv.org/pics/arabicfta/sa3a-masrh.PNG" group-title="EGYPT",AR:AL_SA3AA_MASRA7
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/7626.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Al_Shasha_Cinema" tvg-logo="http://universeiptv.org/pics/arabicfta/alshasha.PNG" group-title="EGYPT",AR:Al_Shasha_Cinema
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3287.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Al_Shasha_Drama" tvg-logo="http://universeiptv.org/pics/arabicfta/shashadrama.png" group-title="EGYPT",AR:Al_Shasha_Drama
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/7890.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Alyoum_Drama" tvg-logo="http://universeiptv.org/pics/arabicfta/youm_drama.PNG" group-title="EGYPT",AR:Alyoum_Drama
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/8527.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Belody_Aflam" tvg-logo="http://universeiptv.org/pics/arabicfta/belodyaflam.PNG" group-title="EGYPT",AR:Belody_Aflam
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2398.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:CAIRO_CINEMA" tvg-logo="http://universeiptv.org/pics/mbc/cairo_cinema_eg.png" group-title="EGYPT",AR:CAIRO_CINEMA
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1423.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Cima_Alibaba" tvg-logo="http://universeiptv.org/pics/mbc/cima_ali_baba_eg.png" group-title="EGYPT",AR:Cima_Alibaba
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1292.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Cinema_Fartaka" tvg-logo="http://universeiptv.org/pics/arabicfta/fartaka.PNG" group-title="EGYPT",AR:Cinema_Fartaka
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3290.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Cairo-Aflam" tvg-logo="http://universeiptv.org/pics/mbc/cairo_film_eg.png" group-title="EGYPT",AR_Cairo-Aflam
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1778.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Cairo-Drama" tvg-logo="http://universeiptv.org/pics/mbc/cairo_drama_eg.png" group-title="EGYPT",AR_Cairo-Drama
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1777.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR_CIMA_TUBE" tvg-logo="http://universeiptv.org/pics/arabicfta/cinematube.png" group-title="EGYPT",AR_CIMA_TUBE
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2334.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Cima_TV" tvg-logo="http://universeiptv.org/pics/arabicfta/cima.png" group-title="EGYPT",AR_Cima_TV
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2333.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR_CINEMA-1" tvg-logo="http://universeiptv.org/pics/arabicfta/cinema1.png" group-title="EGYPT",AR_CINEMA-1
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1796.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR_CINEMA-2" tvg-logo="http://universeiptv.org/pics/arabicfta/cinema2.PNG" group-title="EGYPT",AR_CINEMA-2
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1795.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Cinema-Pro" tvg-logo="http://universeiptv.org/pics/arabicfta/cinemapro.PNG" group-title="EGYPT",AR_Cinema-Pro
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1794.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR_CINEMA_TUBE" tvg-logo="http://universeiptv.org/pics/arabicfta/cinematube.png" group-title="EGYPT",AR_CINEMA_TUBE
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2335.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR_CLASSIC_TUBE" tvg-logo="http://universeiptv.org/pics/arabicfta/classictube.png" group-title="EGYPT",AR_CLASSIC_TUBE
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2336.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR_CNA" tvg-logo="http://universeiptv.org/pics/arabicfta/cna.png" group-title="EGYPT",AR_CNA
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1861.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR_DARBAKA_AFLAM" tvg-logo="http://universeiptv.org/pics/arabicfta/darabakaaflam.png" group-title="EGYPT",AR_DARBAKA_AFLAM
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2338.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR_DARBAKA_CINEMA" tvg-logo="http://universeiptv.org/pics/arabicfta/darabakacinema.png" group-title="EGYPT",AR_DARBAKA_CINEMA
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2337.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Gold-CINEMA" tvg-logo="http://universeiptv.org/pics/arabicfta/hdcinema.png" group-title="EGYPT",AR:Gold-CINEMA
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1793.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:ALMASRAWIA_AFLAM" tvg-logo="http://universeiptv.org/pics/arabicfta/masrawyaaflam.png" group-title="EGYPT",AR:ALMASRAWIA_AFLAM
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2339.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:EL_Ostora" tvg-logo="http://universeiptv.org/pics/arabicfta/elostora.png" group-title="EGYPT",AR:EL_Ostora
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2965.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:HAREEM_ELSULTAN" tvg-logo="http://universeiptv.org/pics/arabicfta/hareem.png" group-title="EGYPT",AR:HAREEM_ELSULTAN
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2402.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Hendy_Sharokhan" tvg-logo="http://universeiptv.org/pics/arabicfta/sharokhan.PNG" group-title="EGYPT",AR:Hendy_Sharokhan
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/8530.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:FAMILY_DRAMA" tvg-logo="http://universeiptv.org/pics/arabicfta/family_drama.PNG" group-title="EGYPT",AR:FAMILY_DRAMA
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/8528.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:IFilm_Arabic" tvg-logo="" group-title="EGYPT",AR:IFilm_Arabic
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/5826.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR_IFilm_Farsi" tvg-logo="http://universeiptv.org/pics/arabicfta/ifilm.png" group-title="EGYPT",AR_IFilm_Farsi
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2341.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Imagine-Movies" tvg-logo="http://universeiptv.org/pics/arabicfta/imaginemovies.png" group-title="EGYPT",AR_Imagine-Movies
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1797.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:MasperoZaman" tvg-logo="http://universeiptv.org/pics/arabicfta/maspero_zaman.png" group-title="EGYPT",AR:MasperoZaman
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3300.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:STAR_CINEMA_1" tvg-logo="http://universeiptv.org/pics/arabicfta/star1.png" group-title="EGYPT",AR:STAR_CINEMA_1
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1416.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:STAR_CINEMA_2" tvg-logo="http://universeiptv.org/pics/arabicfta/starcinema2.png" group-title="EGYPT",AR:STAR_CINEMA_2
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1417.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Shanpoo_Aflam" tvg-logo="http://universeiptv.org/pics/arabicfta/shanpo.PNG" group-title="EGYPT",AR:Shanpoo_Aflam
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/7459.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:T_Drama" tvg-logo="http://universeiptv.org/pics/arabicfta/tdrama.PNG" group-title="EGYPT",AR:T_Drama
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/7460.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:TATT7" tvg-logo="" group-title="EGYPT",AR:TATT7
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2417.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Time_Cinema" tvg-logo="" group-title="EGYPT",AR:Time_Cinema
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1727.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:TIME_COMEDY" tvg-logo="" group-title="EGYPT",AR:TIME_COMEDY
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1415.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:TIME_FILM" tvg-logo="" group-title="EGYPT",AR:TIME_FILM
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1755.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Toktok_Aflam" tvg-logo="http://universeiptv.org/pics/arabicfta/toktok.png" group-title="EGYPT",AR:Toktok_Aflam
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1209.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR_TALAA_Hendi" tvg-logo="http://universeiptv.org/pics/arabicfta/talaa.png" group-title="EGYPT",AR_TALAA_Hendi
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2363.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR_MUSLSLAT_TUBE" tvg-logo="" group-title="EGYPT",AR_MUSLSLAT_TUBE
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2359.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:4G_AFLAM" tvg-logo="" group-title="EGYPT",AR:4G_AFLAM
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2343.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:4G_CIMA" tvg-logo="" group-title="EGYPT",AR:4G_CIMA
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2422.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:4G_CLASSIC" tvg-logo="" group-title="EGYPT",AR:4G_CLASSIC
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2421.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:4G_FILM" tvg-logo="" group-title="",AR:4G_FILM
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3066.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:4G_DRAMA" tvg-logo="" group-title="",AR:4G_DRAMA
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3067.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Toktok_Cima" tvg-logo="http://universeiptv.org/pics/arabicfta/toktok.png" group-title="EGYPT",AR:Toktok_Cima
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1779.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Alarabiya" tvg-logo="http://universeiptv.org/pics/mbc/al_arabiya.png" group-title="NEWS",AR:Alarabiya
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1356.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Al_Arabia_Hadath" tvg-logo="http://universeiptv.org/pics/mbc/al_hadath_ae.png" group-title="NEWS",AR:Al_Arabia_Hadath
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1335.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Al_Ahly_Tv" tvg-logo="http://universeiptv.org/pics/mbc/al_ahly_tv_cairo_eg.png" group-title="EGYPT",AR:Al_Ahly_Tv
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1339.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Al_Haqeqa_Al_Dawliah" tvg-logo="http://universeiptv.org/pics/arabicfta/haqiqa-dawlia.PNG" group-title="NEWS",AR:Al_Haqeqa_Al_Dawliah
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/7621.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Al_Nas" tvg-logo="http://universeiptv.org/pics/arabicfta/nas.png" group-title="EGYPT",AR_Al_Nas
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1870.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR_ALRAHMA" tvg-logo="http://universeiptv.org/pics/mbc/al_rahma.png" group-title="EGYPT",AR_ALRAHMA
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1869.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR_AL-ALAM" tvg-logo="http://universeiptv.org/pics/arabicfta/alalam.png" group-title="NEWS",AR_AL-ALAM
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1904.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Al-Araby" tvg-logo="http://universeiptv.org/pics/arabicfta/elaraby.png" group-title="NEWS",AR_Al-Araby
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1902.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Al_Hiwar" tvg-logo="http://universeiptv.org/pics/arabicfta/elhiwar.PNG" group-title="EGYPT",AR:Al_Hiwar
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/9660.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Al-Jazeera-English" tvg-logo="http://universeiptv.org/pics/mbc/al_jazeera_english_hd.png" group-title="NEWS",AR_Al-Jazeera-English
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1776.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:B4U_Aflam" tvg-logo="" group-title="EGYPT",AR:B4U_Aflam
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1301.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR_BBC-Arabic" tvg-logo="http://universeiptv.org/pics/arabicfta/bbc_arabic.png" group-title="NEWS",AR_BBC-Arabic
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1865.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR_NOUR-KIDS" tvg-logo="http://universeiptv.org/pics/arabicfta/nour_kids.png" group-title="EGYPT",AR_NOUR-KIDS
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1829.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:CNN" tvg-logo="http://universeiptv.org/pics/arabicfta/cnn.png" group-title="NEWS",AR:CNN
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1421.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:EL_Sharq" tvg-logo="http://universeiptv.org/pics/mbc/el_sharq_tv_eg.png" group-title="EGYPT",AR:EL_Sharq
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2954.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:France_24" tvg-logo="" group-title="NEWS",AR:France_24
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3285.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Hala_TV" tvg-logo="" group-title="EGYPT",AR:Hala_TV
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2401.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Halaba-TV" tvg-logo="" group-title="EGYPT",AR_Halaba-TV
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1798.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Kurdmax" tvg-logo="" group-title="EGYPT",AR_Kurdmax
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1846.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR_LTC" tvg-logo="http://universeiptv.org/pics/mbc/ltc_eg.png" group-title="EGYPT",AR_LTC
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1780.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Mekmleen" tvg-logo="http://universeiptv.org/pics/mbc/mekameleen_tv_eg.png" group-title="EGYPT",AR:Mekmleen
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2953.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Misr_Elbald" tvg-logo="http://universeiptv.org/pics/mbc/misr_el_balad_eg.png" group-title="EGYPT",AR:Misr_Elbald
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2410.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Music_alremas" tvg-logo="" group-title="MUSIC",AR_Music_alremas
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2349.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR_MUSIC_SHAABY" tvg-logo="" group-title="MUSIC",AR_MUSIC_SHAABY
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2348.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Nilat" tvg-logo="http://universeiptv.org/pics/mbc/nilat_tv.png" group-title="EGYPT",AR:Nilat
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2955.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Numidia-News-TV" tvg-logo="" group-title="EGYPT",AR_Numidia-News-TV
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1826.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Russia_Today_News" tvg-logo="http://universeiptv.org/pics/arabicfta/russia_today.png" group-title="NEWS",AR:Russia_Today_News
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2409.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Shaabeyat" tvg-logo="http://universeiptv.org/pics/arabicfta/shaabyat.png" group-title="MUSIC",AR:Shaabeyat
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1728.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:4Shabab_TV" tvg-logo="http://universeiptv.org/pics/mbc/4shbab_tv1_eg.png" group-title="EGYPT",AR:4Shabab_TV
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3039.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:SHAMALIA_TV" tvg-logo="" group-title="EGYPT",AR:SHAMALIA_TV
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3035.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Sky_News_Arabia" tvg-logo="" group-title="NEWS",AR:Sky_News_Arabia
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2155.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR_SAMARRA-TV" tvg-logo="" group-title="EGYPT",AR_SAMARRA-TV
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1822.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Sky-News-Arabia" tvg-logo="http://universeiptv.org/pics/mbc/sky_uk_news_arabia.png" group-title="NEWS",AR_Sky-News-Arabia
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1819.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Taghier" tvg-logo="" group-title="NEWS",AR:Taghier
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2494.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR_TAWAZON" tvg-logo="http://universeiptv.org/pics/arabicfta/tawazon.png" group-title="EGYPT",AR_TAWAZON
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2360.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Tele_Tchad" tvg-logo="" group-title="EGYPT",AR_Tele_Tchad
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2358.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR_TEN-1" tvg-logo="http://universeiptv.org/pics/mbc/ten_tv_eg.png" group-title="EGYPT",AR_TEN-1
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1785.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:WISSAL_TV" tvg-logo="http://universeiptv.org/pics/arabicfta/wessal.png" group-title="EGYPT",AR:WISSAL_TV
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2492.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Zee_Aflam" tvg-logo="http://universeiptv.org/pics/mbc/zee_aflam.png" group-title="EGYPT",AR:Zee_Aflam
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1203.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Zee_Alwan" tvg-logo="http://universeiptv.org/pics/mbc/zee_alwan_in.png" group-title="EGYPT",AR:Zee_Alwan
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1202.ts
+#EXTINF:-1 tvg-ID="" tvg-name="==ALGERIA-CHANNEL==" tvg-logo="" group-title="",==ALGERIA-CHANNEL==
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2981.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Algerie" tvg-logo="" group-title="ALGERIA",AR:Algerie
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1353.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Algeria_3" tvg-logo="http://universeiptv.org/pics/arabicfta/jazzarea3.png" group-title="ALGERIA",AR:Algeria_3
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2042.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Algeria_4" tvg-logo="" group-title="ALGERIA",AR:Algeria_4
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1354.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Algeria_5" tvg-logo="" group-title="ALGERIA",AR:Algeria_5
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3006.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Bahia" tvg-logo="" group-title="ALGERIA",AR:Bahia
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/4379.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Benna_TV" tvg-logo="" group-title="ALGERIA",AR:Benna_TV
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/4380.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:BERBERE_TV" tvg-logo="http://universeiptv.org/pics/arabicfta/berbere.PNG" group-title="ALGERIA",AR:BERBERE_TV
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/8164.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:EL_BILAD_TV" tvg-logo="http://universeiptv.org/pics/arabicfta/bilad.PNG" group-title="ALGERIA",AR:EL_BILAD_TV
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/8163.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:El-Heddaf" tvg-logo="http://universeiptv.org/pics/arabicfta/hadaf.png" group-title="ALGERIA",AR:El-Heddaf
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3078.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Dzair_Tv" tvg-logo="http://universeiptv.org/pics/arabicfta/dzair.png" group-title="ALGERIA",AR:Dzair_Tv
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1284.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Dzair-24" tvg-logo="" group-title="ALGERIA",AR_Dzair-24
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1858.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR_KBC_Algeria" tvg-logo="" group-title="ALGERIA",AR_KBC_Algeria
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1855.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR_DJAZARIA" tvg-logo="" group-title="ALGERIA",AR_DJAZARIA
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1859.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR_DZAIR-News" tvg-logo="http://universeiptv.org/pics/arabicfta/dzair_news.png" group-title="ALGERIA",AR_DZAIR-News
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1854.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Echorouk-TV" tvg-logo="http://universeiptv.org/pics/arabicfta/shrok.png" group-title="ALGERIA",AR_Echorouk-TV
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1852.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Echorouk_TV_News" tvg-logo="http://universeiptv.org/pics/arabicfta/shroknews.png" group-title="ALGERIA",AR:Echorouk_TV_News
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3079.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR_ENNAHAR-TV" tvg-logo="http://universeiptv.org/pics/arabicfta/nahar_algeria.png" group-title="ALGERIA",AR_ENNAHAR-TV
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1848.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Samira_Tv" tvg-logo="http://universeiptv.org/pics/arabicfta/samira.png" group-title="ALGERIA",AR:Samira_Tv
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1723.ts
+#EXTINF:-1 tvg-ID="" tvg-name="==EMIRATES-CHANNEL==" tvg-logo="" group-title="",==EMIRATES-CHANNEL==
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2974.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Abu_Dhabi" tvg-logo="http://universeiptv.org/pics/mbc/abu_dhabi_tv_ae.png" group-title="UAE",AR:Abu_Dhabi
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1363.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Abu_Dhabi_Drama" tvg-logo="http://universeiptv.org/pics/mbc/abu_dhabi_drama.png" group-title="UAE",AR:Abu_Dhabi_Drama
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1362.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Abu_Dhabi_Emarat" tvg-logo="http://universeiptv.org/pics/mbc/al_emarat_ae_tv.png" group-title="UAE",AR:Abu_Dhabi_Emarat
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1361.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Ajman" tvg-logo="http://universeiptv.org/pics/mbc/ajman_tv.png" group-title="UAE",AR:Ajman
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2958.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Al_Dafrah" tvg-logo="http://universeiptv.org/pics/mbc/al_dafrah_tv_ae.png" group-title="UAE",AR:Al_Dafrah
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3008.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Dubai" tvg-logo="http://universeiptv.org/pics/arabicfta/dubai.png" group-title="UAE",AR:Dubai
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1288.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Dubai_One" tvg-logo="http://universeiptv.org/pics/mbc/dubai_one.png" group-title="UAE",AR:Dubai_One
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1287.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Dubai_Racing" tvg-logo="http://universeiptv.org/pics/mbc/dubai_ae_racing_1.png" group-title="UAE",AR:Dubai_Racing
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1383.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Dubai_Racing_2" tvg-logo="http://universeiptv.org/pics/mbc/dubai_ae_racing_2.png" group-title="UAE",AR:Dubai_Racing_2
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3152.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Dubai_Racing_3" tvg-logo="http://universeiptv.org/pics/mbc/dubai_ae_racing_3.png" group-title="UAE",AR:Dubai_Racing_3
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3418.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Dubai_Sport_1" tvg-logo="http://universeiptv.org/pics/mbc/dubai_ae_sports.png" group-title="UAE",AR:Dubai_Sport_1
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1286.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Dubai_Sport_2" tvg-logo="http://universeiptv.org/pics/mbc/dubai_ae_sports_hd2.png" group-title="UAE",AR:Dubai_Sport_2
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2523.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Dubai_Sport_3" tvg-logo="" group-title="UAE",AR:Dubai_Sport_3
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1285.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Duai_Sport_4" tvg-logo="" group-title="EGYPT",AR:Duai_Sport_4
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2956.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Dubai_Zaman" tvg-logo="http://universeiptv.org/pics/mbc/dubai_ae_zaman.png" group-title="UAE",AR:Dubai_Zaman
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1385.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Nat_Geo_Ad" tvg-logo="http://universeiptv.org/pics/arabicfta/natgeoad.png" group-title="UAE",AR:Nat_Geo_Ad
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1244.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Noor_Dubai" tvg-logo="http://universeiptv.org/pics/arabicfta/noor_dubai.png" group-title="UAE",AR:Noor_Dubai
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2790.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Quest_Arabia" tvg-logo="http://universeiptv.org/pics/mbc/quest_us_arabiya.png" group-title="UAE",AR:Quest_Arabia
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3506.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Sama_Dubai" tvg-logo="http://universeiptv.org/pics/mbc/dubai_ae_sama.png" group-title="UAE",AR:Sama_Dubai
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1217.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Sharjah" tvg-logo="http://universeiptv.org/pics/mbc/sharjah_tv.png" group-title="UAE",AR:Sharjah
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1410.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Sharjah_Sport" tvg-logo="http://universeiptv.org/pics/mbc/sharjah_sports_tv.png" group-title="UAE",AR:Sharjah_Sport
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2444.ts
+#EXTINF:-1 tvg-ID="" tvg-name="==LEBNAN-CHANNEL==" tvg-logo="" group-title="",==LEBNAN-CHANNEL==
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2970.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Alaan" tvg-logo="http://universeiptv.org/pics/mbc/al_aan_tv.png" group-title="LEBANON",AR:Alaan
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2957.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:AL_IMAN_TV" tvg-logo="" group-title="LEBANON",AR:AL_IMAN_TV
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3501.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Aljadeed" tvg-logo="http://universeiptv.org/pics/arabicfta/aljaded.png" group-title="LEBANON",AR:Aljadeed
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1349.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Aljadeed_(backup)" tvg-logo="http://universeiptv.org/pics/arabicfta/aljaded.png" group-title="NEWS",AR:Aljadeed_(backup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3275.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Al_Manar" tvg-logo="http://universeiptv.org/pics/arabicfta/manar.png" group-title="LEBANON",AR:Al_Manar
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1321.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:AL-MAYADEEN-TV" tvg-logo="" group-title="NEWS",AR:AL-MAYADEEN-TV
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1879.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:AL-MAYADEEN-TV_(backup)" tvg-logo="http://universeiptv.org/pics/arabicfta/mayadeen.png" group-title="NEWS",AR:AL-MAYADEEN-TV_(backup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3273.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:AL_SIRAT" tvg-logo="http://universeiptv.org/pics/arabicfta/serat.png" group-title="LEBANON",AR:AL_SIRAT
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3288.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Future" tvg-logo="http://universeiptv.org/pics/arabicfta/future.png" group-title="LEBANON",AR:Future
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1280.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:HeyaTV" tvg-logo="http://universeiptv.org/pics/arabicfta/heya.png" group-title="LEBANON",AR:HeyaTV
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3296.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:LBC" tvg-logo="http://universeiptv.org/pics/arabicfta/lbc.png" group-title="LEBANON",AR:LBC
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1270.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:LBC_(Backup)" tvg-logo="http://universeiptv.org/pics/arabicfta/lbc.png" group-title="LEBANON",AR:LBC_(Backup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2740.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:LDC" tvg-logo="http://universeiptv.org/pics/arabicfta/ldc.png" group-title="LEBANON",AR:LDC
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1269.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:LDC_(Backup)" tvg-logo="http://universeiptv.org/pics/arabicfta/ldc.png" group-title="LEBANON",AR:LDC_(Backup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2741.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Lebanon_TV" tvg-logo="" group-title="LEBANON",AR:Lebanon_TV
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2404.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:MTV" tvg-logo="" group-title="LEBANON",AR:MTV
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1249.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:MTV_(Backup)" tvg-logo="http://universeiptv.org/pics/arabicfta/mtv_lebanon.png" group-title="LEBANON",AR:MTV_(Backup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3090.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR_NBN" tvg-logo="" group-title="LEBANON",AR_NBN
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1832.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:OTV_Lebanon" tvg-logo="http://universeiptv.org/pics/arabicfta/otv.png" group-title="LEBANON",AR:OTV_Lebanon
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1268.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:OTV_Lebanon_(Backup)" tvg-logo="http://universeiptv.org/pics/arabicfta/otv.png" group-title="LEBANON",AR:OTV_Lebanon_(Backup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2742.ts
+#EXTINF:-1 tvg-ID="" tvg-name="==KIDS-CHANNEL===" tvg-logo="" group-title="",==KIDS-CHANNEL===
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2973.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Baraem" tvg-logo="" group-title="KIDS",AR:Baraem
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1297.ts
+#EXTINF:-1 tvg-ID="CartoonNetworkAR" tvg-name="AR:Cartoon_Network_Arabic" tvg-logo="http://universeiptv.org/pics/mbc/cartoon_network_global.png" group-title="KIDS",AR:Cartoon_Network_Arabic
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1389.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Karameesh" tvg-logo="http://universeiptv.org/pics/arabicfta/karameesh.png" group-title="KIDS",AR:Karameesh
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1275.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:KIDZINIA" tvg-logo="http://universeiptv.org/pics/mbc/kidzinia_cartoon_eg.png" group-title="KIDS",AR:KIDZINIA
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3298.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Kokky_TV" tvg-logo="http://universeiptv.org/pics/mbc/koky_kids_eg.png" group-title="KIDS",AR:Kokky_TV
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1413.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Maged_Kids" tvg-logo="http://universeiptv.org/pics/mbc/majid_tv_ae.png" group-title="KIDS",AR:Maged_Kids
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2312.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Mickey_Channel" tvg-logo="http://universeiptv.org/pics/arabicfta/mickey.png" group-title="KIDS",AR:Mickey_Channel
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1414.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR_MODY-KIDS" tvg-logo="" group-title="KIDS",AR_MODY-KIDS
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1782.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Nat_Geo_Kids" tvg-logo="" group-title="KIDS",AR:Nat_Geo_Kids
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/6879.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Sat_7_Kids" tvg-logo="" group-title="EGYPT",AR:Sat_7_Kids
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3032.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Spacetoon" tvg-logo="http://universeiptv.org/pics/mbc/space_toon_ae_1.png" group-title="KIDS",AR:Spacetoon
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1213.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR_TAHA" tvg-logo="http://universeiptv.org/pics/arabicfta/taha.png" group-title="KIDS",AR_TAHA
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1812.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:TOYOR_BABY" tvg-logo="http://universeiptv.org/pics/arabicfta/toyorbaby.png" group-title="KIDS",AR:TOYOR_BABY
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2420.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:TOYOR_BABY_(Backup)" tvg-logo="http://universeiptv.org/pics/arabicfta/toyorbaby.png" group-title="KIDS",AR:TOYOR_BABY_(Backup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/8107.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Toyor_Al_Janah" tvg-logo="" group-title="KIDS",AR:Toyor_Al_Janah
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1207.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Toyor_Al_Janah_(Backup)" tvg-logo="http://universeiptv.org/pics/arabicfta/toyorjanah.png" group-title="KIDS",AR:Toyor_Al_Janah_(Backup)
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2736.ts
+#EXTINF:-1 tvg-ID="" tvg-name="==KUWAIT-CHANNEL==" tvg-logo="" group-title="",==KUWAIT-CHANNEL==
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2975.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Al_Maaly" tvg-logo="http://universeiptv.org/pics/mbc/maaly.png" group-title="KUWAIT",AR:Al_Maaly
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/6641.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Alrai_Tv" tvg-logo="http://universeiptv.org/pics/arabicfta/alrai.png" group-title="KUWAIT",AR:Alrai_Tv
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1342.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Al_Shahid" tvg-logo="http://universeiptv.org/pics/mbc/alshahid.png" group-title="KUWAIT",AR:Al_Shahid
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/6649.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Funoon" tvg-logo="http://universeiptv.org/pics/arabicfta/funoon.png" group-title="KUWAIT",AR:Funoon
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1281.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Kuwait" tvg-logo="http://universeiptv.org/pics/arabicfta/kuwait.png" group-title="KUWAIT",AR:Kuwait
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1411.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Kuwait_2" tvg-logo="http://universeiptv.org/pics/arabicfta/kuwait2.png" group-title="KUWAIT",AR_Kuwait_2
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2345.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Kuwait_Alarabi" tvg-logo="http://universeiptv.org/pics/arabicfta/alaraby_kuwait.png" group-title="KUWAIT",AR:Kuwait_Alarabi
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3002.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Kuwait_Ethraa" tvg-logo="http://universeiptv.org/pics/arabicfta/esaakuwait.png" group-title="KUWAIT",AR:Kuwait_Ethraa
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3001.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Kuwait_Plus" tvg-logo="http://universeiptv.org/pics/arabicfta/kuwait_plus.png" group-title="KUWAIT",AR:Kuwait_Plus
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3000.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Kuwait_Sport" tvg-logo="http://universeiptv.org/pics/arabicfta/kuwait_sport.png" group-title="KUWAIT",AR:Kuwait_Sport
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3420.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Kuwait_Sport_Plus" tvg-logo="http://universeiptv.org/pics/arabicfta/kuwait_sport.png" group-title="KUWAIT",AR:Kuwait_Sport_Plus
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2999.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Watan_TV" tvg-logo="http://universeiptv.org/pics/mbc/watan.PNG" group-title="KUWAIT",AR:Watan_TV
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/6639.ts
+#EXTINF:-1 tvg-ID="" tvg-name="==ROTANA-CHANNEL==" tvg-logo="" group-title="",==ROTANA-CHANNEL==
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/2969.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Rotana_Aflam" tvg-logo="http://universeiptv.org/pics/mbc/rotana_aflam.png" group-title="ROTANA",AR:Rotana_Aflam
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1227.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Rotana_Cinema_Egypt" tvg-logo="http://universeiptv.org/pics/mbc/rotana_cinema.png" group-title="ROTANA",AR:Rotana_Cinema_Egypt
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1226.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Rotana_Cinema_Ksa" tvg-logo="http://universeiptv.org/pics/mbc/rotana_cinema.png" group-title="ROTANA",AR:Rotana_Cinema_Ksa
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/3277.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Rotana_Classic" tvg-logo="http://universeiptv.org/pics/mbc/rotana_classic.png" group-title="ROTANA",AR:Rotana_Classic
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1225.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Rotana_Clip" tvg-logo="http://universeiptv.org/pics/mbc/rotana_clip.png" group-title="ROTANA",AR:Rotana_Clip
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1224.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Rotana_Khaligi" tvg-logo="http://universeiptv.org/pics/mbc/rotana_khalejia.png" group-title="ROTANA",AR:Rotana_Khaligi
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1223.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Rotana_Drama" tvg-logo="http://universeiptv.org/pics/mbc/rotana_drama.png" group-title="ROTANA",AR:Rotana_Drama
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1222.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Rotana_Music" tvg-logo="http://universeiptv.org/pics/mbc/rotana_music.png" group-title="ROTANA",AR:Rotana_Music
+http://universeiptv.com:8000/live/ja2495/UavC1Ng9LP/1221.ts
